@@ -1,0 +1,807 @@
+ID_Transacao,Data_Venda,ID_Cliente,Nome_Produto,Categoria_Produto,Valor_Unitario,Quantidade,Desconto_Pct,Metodo_Pagamento,Canal_Venda,Cidade,Estado,Valor_Bruto,Valor_Desconto,Valor_Total
+4730,2025-04-16,1857,Celular,Eletrônicos,1826.14,1,5.0,Cartão de Débito,Site,Salvador,BA,1826.14,91.30700000000002,1734.833
+2659,2025-04-16,2112,Notebook,Eletrônicos,3582.96,2,0.0,Cartão de Débito,Site,Feira de Santana,BA,7165.92,0.0,7165.92
+5089,2025-04-16,1057,Notebook,Eletrônicos,3762.94,1,0.0,Cartão de Débito,Site,São Paulo,SP,3762.94,0.0,3762.94
+5496,2025-04-16,2084,Celular,Eletrônicos,1853.17,1,0.0,Cartão de Débito,Site,Contagem,MG,1853.17,0.0,1853.17
+3628,2025-04-17,1803,Celular,Eletrônicos,1742.69,2,0.0,Boleto,App,Niterói,RJ,3485.38,0.0,3485.38
+3683,2025-04-17,1943,Notebook,Eletrônicos,3817.07,1,15.0,Cartão de Crédito,Marketplace,Campos,RJ,3817.07,572.5605,3244.5095
+2128,2025-04-18,2045,Celular,Eletrônicos,1752.9,2,0.0,Boleto,Marketplace,Belo Horizonte,MG,3505.8,0.0,3505.8
+3394,2025-04-18,1309,Notebook,Eletrônicos,3020.38,4,0.0,Pix,Marketplace,Betim,MG,12081.52,0.0,12081.52
+1663,2025-04-19,2039,Bicicleta,Esportes,1512.97,1,15.0,Cartão de Débito,Site,Contagem,MG,1512.97,226.9455,1286.0245
+3985,2025-04-22,2414,Bicicleta,Esportes,1437.69,1,0.0,Boleto,Marketplace,Santos,SP,1437.69,0.0,1437.69
+4775,2025-04-22,1125,Monitor,Eletrônicos,847.77,2,0.0,Pix,App,Betim,MG,1695.54,0.0,1695.54
+999,2025-04-23,2110,Celular,Eletrônicos,1751.61,1,15.0,Cartão de Débito,Marketplace,Vitória da Conquista,BA,1751.61,262.7415,1488.8685
+5493,2025-04-23,1665,Notebook,Eletrônicos,3981.77,1,0.0,Pix,Site,Campinas,SP,3981.77,0.0,3981.77
+2619,2025-04-23,1355,Mesa,Casa,602.68,3,5.0,Cartão de Débito,Site,Ribeirão Preto,SP,1808.04,90.402,1717.638
+5648,2025-04-23,2470,Celular,Eletrônicos,1668.63,3,5.0,Cartão de Crédito,App,São Paulo,SP,5005.89,250.29450000000003,4755.5955
+1369,2025-04-24,1641,Notebook,Eletrônicos,3323.08,1,0.0,Boleto,Site,Belo Horizonte,MG,3323.08,0.0,3323.08
+3624,2025-04-24,1386,Bicicleta,Esportes,1640.56,3,10.0,Pix,Marketplace,Santos,SP,4921.68,492.16800000000006,4429.512000000001
+3112,2025-04-25,1213,Mesa,Casa,679.1,2,10.0,Cartão de Crédito,App,Vitória da Conquista,BA,1358.2,135.82000000000002,1222.38
+2592,2025-04-26,1114,Bicicleta,Esportes,1511.51,1,0.0,Boleto,Site,Contagem,MG,1511.51,0.0,1511.51
+2581,2025-04-26,1886,Notebook,Eletrônicos,3564.86,3,15.0,Cartão de Débito,Site,Campinas,SP,10694.58,1604.187,9090.393
+5470,2025-04-26,1702,Tênis,Roupas,295.69,4,5.0,Pix,Site,São Paulo,SP,1182.76,59.138000000000005,1123.622
+1626,2025-04-27,2240,Notebook,Eletrônicos,3700.66,1,15.0,Cartão de Crédito,Marketplace,Campos,RJ,3700.66,555.0989999999999,3145.5609999999997
+935,2025-04-27,2206,Celular,Eletrônicos,1724.71,1,15.0,Boleto,Site,Santos,SP,1724.71,258.7065,1466.0035
+2139,2025-04-27,1429,Bicicleta,Esportes,1289.6,1,0.0,Boleto,App,Contagem,MG,1289.6,0.0,1289.6
+3259,2025-04-28,2376,Monitor,Eletrônicos,798.33,2,5.0,Cartão de Débito,Marketplace,Ribeirão Preto,SP,1596.66,79.83300000000001,1516.827
+5298,2025-04-28,1354,Mesa,Casa,688.64,2,15.0,Cartão de Débito,Site,Itabira,MG,1377.28,206.59199999999998,1170.688
+3446,2025-04-30,1970,Notebook,Eletrônicos,3564.86,1,0.0,Boleto,Marketplace,Niterói,RJ,3564.86,0.0,3564.86
+2725,2025-04-30,1566,Notebook,Eletrônicos,3761.32,1,15.0,Cartão de Débito,App,Niterói,RJ,3761.32,564.198,3197.1220000000003
+3182,2025-05-01,2498,Notebook,Eletrônicos,3815.26,2,0.0,Boleto,App,Ilhéus,BA,7630.52,0.0,7630.52
+1741,2025-05-01,1203,Monitor,Eletrônicos,875.94,4,10.0,Pix,Site,Rio de Janeiro,RJ,3503.76,350.37600000000003,3153.384
+3184,2025-05-01,1684,Notebook,Eletrônicos,3332.67,1,10.0,Cartão de Crédito,Site,Itabira,MG,3332.67,333.26700000000005,2999.4030000000002
+586,2025-05-01,1201,Notebook,Eletrônicos,3326.72,3,0.0,Boleto,Marketplace,Ilhéus,BA,9980.16,0.0,9980.16
+3350,2025-05-02,1767,Bicicleta,Esportes,1381.52,1,0.0,Cartão de Crédito,Marketplace,Petrópolis,RJ,1381.52,0.0,1381.52
+61,2025-05-02,2332,Monitor,Eletrônicos,913.46,3,15.0,Boleto,Marketplace,Feira de Santana,BA,2740.38,411.057,2329.3230000000003
+5203,2025-05-03,1002,Bicicleta,Esportes,1445.86,2,0.0,Cartão de Débito,Marketplace,Betim,MG,2891.72,0.0,2891.72
+1837,2025-05-03,1326,Monitor,Eletrônicos,786.62,3,5.0,Pix,Marketplace,Petrópolis,RJ,2359.86,117.99300000000001,2241.867
+4429,2025-05-03,1238,Notebook,Eletrônicos,3564.86,1,10.0,Boleto,Marketplace,Santos,SP,3564.86,356.48600000000005,3208.3740000000003
+5133,2025-05-03,1912,Notebook,Eletrônicos,3089.99,2,15.0,Boleto,App,Salvador,BA,6179.98,926.9969999999998,5252.983
+5617,2025-05-04,1209,Bicicleta,Esportes,1627.62,1,0.0,Pix,App,Ilhéus,BA,1627.62,0.0,1627.62
+3959,2025-05-04,2367,Notebook,Eletrônicos,3504.84,1,0.0,Cartão de Débito,Marketplace,Niterói,RJ,3504.84,0.0,3504.84
+1230,2025-05-05,1599,Monitor,Eletrônicos,883.4,2,15.0,Cartão de Débito,Marketplace,Belo Horizonte,MG,1766.8,265.02,1501.78
+3147,2025-05-05,2244,Monitor,Eletrônicos,913.46,4,0.0,Boleto,App,Salvador,BA,3653.84,0.0,3653.84
+2077,2025-05-05,1326,Notebook,Eletrônicos,3079.69,1,15.0,Boleto,App,Ilhéus,BA,3079.69,461.95349999999996,2617.7365
+5968,2025-05-05,1569,Celular,Eletrônicos,1944.46,2,0.0,Boleto,Marketplace,Itabira,MG,3888.92,0.0,3888.92
+3086,2025-05-05,2246,Celular,Eletrônicos,2054.74,1,0.0,Boleto,App,Campos,RJ,2054.74,0.0,2054.74
+4558,2025-05-06,1023,Mesa,Casa,573.25,3,0.0,Cartão de Crédito,Site,Itabira,MG,1719.75,0.0,1719.75
+4123,2025-05-06,2343,Celular,Eletrônicos,1826.14,4,0.0,Cartão de Crédito,App,Salvador,BA,7304.56,0.0,7304.56
+5942,2025-05-07,2451,Celular,Eletrônicos,1839.89,1,0.0,Boleto,Marketplace,Santos,SP,1839.89,0.0,1839.89
+2333,2025-05-07,2057,Notebook,Eletrônicos,3774.2,4,10.0,Boleto,App,Campinas,SP,15096.8,1509.68,13587.119999999999
+5448,2025-05-07,2498,Celular,Eletrônicos,1826.14,2,15.0,Cartão de Débito,Marketplace,Ribeirão Preto,SP,3652.28,547.842,3104.438
+2060,2025-05-09,2197,Mesa,Casa,712.48,2,0.0,Cartão de Débito,Marketplace,Campos,RJ,1424.96,0.0,1424.96
+4480,2025-05-10,1828,Mesa,Casa,678.16,2,0.0,Pix,Marketplace,Ilhéus,BA,1356.32,0.0,1356.32
+2721,2025-05-10,2479,Monitor,Eletrônicos,830.39,3,5.0,Boleto,App,Niterói,RJ,2491.17,124.55850000000001,2366.6115
+136,2025-05-11,1308,Bicicleta,Esportes,1512.97,1,5.0,Cartão de Crédito,App,Santos,SP,1512.97,75.6485,1437.3215
+2935,2025-05-11,2288,Celular,Eletrônicos,1826.14,3,10.0,Pix,Marketplace,Contagem,MG,5478.42,547.842,4930.578
+439,2025-05-12,1282,Bicicleta,Esportes,1623.39,1,0.0,Cartão de Crédito,Marketplace,Petrópolis,RJ,1623.39,0.0,1623.39
+4862,2025-05-12,1403,Notebook,Eletrônicos,3226.87,3,5.0,Cartão de Débito,Site,Feira de Santana,BA,9680.61,484.0305000000001,9196.5795
+2047,2025-05-12,2309,Bicicleta,Esportes,1512.97,1,0.0,Cartão de Débito,Site,Santos,SP,1512.97,0.0,1512.97
+4961,2025-05-12,1201,Celular,Eletrônicos,1910.16,1,10.0,Boleto,Site,Betim,MG,1910.16,191.01600000000002,1719.144
+2223,2025-05-13,1589,Monitor,Eletrônicos,870.05,2,0.0,Cartão de Crédito,Marketplace,São Paulo,SP,1740.1,0.0,1740.1
+1497,2025-05-13,1996,Mesa,Casa,728.71,2,0.0,Cartão de Débito,App,Itabira,MG,1457.42,0.0,1457.42
+1329,2025-05-13,1283,Notebook,Eletrônicos,3375.36,4,10.0,Boleto,Site,Vitória da Conquista,BA,13501.44,1350.1440000000002,12151.296
+2135,2025-05-13,1089,Monitor,Eletrônicos,993.62,4,0.0,Pix,Site,Contagem,MG,3974.48,0.0,3974.48
+302,2025-05-13,1278,Mesa,Casa,598.05,3,0.0,Cartão de Crédito,Site,Ilhéus,BA,1794.1499999999999,0.0,1794.1499999999999
+484,2025-05-14,1322,Notebook,Eletrônicos,3784.34,1,15.0,Cartão de Débito,Site,Santos,SP,3784.34,567.651,3216.6890000000003
+368,2025-05-15,2047,Celular,Eletrônicos,1978.55,2,10.0,Cartão de Crédito,App,Ribeirão Preto,SP,3957.1,395.71000000000004,3561.39
+1781,2025-05-15,2099,Notebook,Eletrônicos,4018.04,3,0.0,Cartão de Crédito,Site,Campos,RJ,12054.119999999999,0.0,12054.119999999999
+4822,2025-05-16,1565,Bicicleta,Esportes,1294.45,1,0.0,Boleto,App,Campos,RJ,1294.45,0.0,1294.45
+4119,2025-05-16,1550,Notebook,Eletrônicos,3559.86,1,10.0,Cartão de Crédito,Marketplace,Campos,RJ,3559.86,355.98600000000005,3203.8740000000003
+4162,2025-05-17,1521,Notebook,Eletrônicos,3282.53,1,0.0,Boleto,App,Belo Horizonte,MG,3282.53,0.0,3282.53
+2788,2025-05-17,1140,Celular,Eletrônicos,1790.97,1,10.0,Pix,Marketplace,Betim,MG,1790.97,179.097,1611.873
+1587,2025-05-17,1278,Bicicleta,Esportes,1512.97,1,0.0,Pix,Site,Contagem,MG,1512.97,0.0,1512.97
+2424,2025-05-17,2375,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Débito,Marketplace,Betim,MG,3564.86,0.0,3564.86
+453,2025-05-17,1086,Notebook,Eletrônicos,3564.86,1,15.0,Cartão de Débito,App,Salvador,BA,3564.86,534.729,3030.1310000000003
+434,2025-05-17,1200,Celular,Eletrônicos,1826.14,4,0.0,Cartão de Débito,Site,Vitória da Conquista,BA,7304.56,0.0,7304.56
+2380,2025-05-18,1722,Bicicleta,Esportes,1483.25,1,0.0,Cartão de Crédito,App,Feira de Santana,BA,1483.25,0.0,1483.25
+5215,2025-05-18,1500,Celular,Eletrônicos,1826.14,1,15.0,Pix,Marketplace,Ribeirão Preto,SP,1826.14,273.921,1552.219
+2776,2025-05-18,1718,Bicicleta,Esportes,1529.58,4,0.0,Pix,Site,Belo Horizonte,MG,6118.32,0.0,6118.32
+4580,2025-05-18,1353,Bicicleta,Esportes,1714.65,3,0.0,Boleto,App,Ilhéus,BA,5143.950000000001,0.0,5143.950000000001
+5827,2025-05-19,1549,Celular,Eletrônicos,2069.71,2,15.0,Boleto,Marketplace,Ilhéus,BA,4139.42,620.913,3518.507
+15,2025-05-19,1161,Notebook,Eletrônicos,3564.86,3,0.0,Cartão de Crédito,Marketplace,Niterói,RJ,10694.58,0.0,10694.58
+2050,2025-05-19,1503,Bicicleta,Esportes,1512.97,3,0.0,Cartão de Débito,Marketplace,Salvador,BA,4538.91,0.0,4538.91
+5759,2025-05-19,2264,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Débito,Site,Ribeirão Preto,SP,3564.86,0.0,3564.86
+4194,2025-05-20,1037,Notebook,Eletrônicos,3564.86,1,0.0,Pix,Site,Santos,SP,3564.86,0.0,3564.86
+5733,2025-05-21,1691,Mesa,Casa,654.96,2,0.0,Boleto,Site,Belo Horizonte,MG,1309.92,0.0,1309.92
+4717,2025-05-22,1297,Monitor,Eletrônicos,804.32,2,5.0,Boleto,Marketplace,Itabira,MG,1608.64,80.43200000000002,1528.208
+4818,2025-05-22,2355,Notebook,Eletrônicos,3769.14,4,0.0,Pix,Marketplace,Belo Horizonte,MG,15076.56,0.0,15076.56
+4735,2025-05-22,1159,Celular,Eletrônicos,2031.19,1,0.0,Boleto,Site,Campos,RJ,2031.19,0.0,2031.19
+1151,2025-05-22,1813,Monitor,Eletrônicos,825.5,4,0.0,Pix,App,Betim,MG,3302.0,0.0,3302.0
+334,2025-05-23,1808,Monitor,Eletrônicos,893.59,4,10.0,Cartão de Crédito,Marketplace,Feira de Santana,BA,3574.36,357.43600000000004,3216.924
+5531,2025-05-25,1277,Celular,Eletrônicos,2067.3,3,0.0,Cartão de Crédito,Site,Betim,MG,6201.900000000001,0.0,6201.900000000001
+5308,2025-05-25,1885,Monitor,Eletrônicos,878.39,2,15.0,Pix,Marketplace,Campos,RJ,1756.78,263.517,1493.263
+2556,2025-05-25,1960,Celular,Eletrônicos,2043.07,1,0.0,Cartão de Débito,Marketplace,Campinas,SP,2043.07,0.0,2043.07
+4182,2025-05-25,1073,Celular,Eletrônicos,1668.27,1,0.0,Boleto,App,Petrópolis,RJ,1668.27,0.0,1668.27
+4620,2025-05-25,2429,Celular,Eletrônicos,1727.47,1,0.0,Pix,Marketplace,Campos,RJ,1727.47,0.0,1727.47
+174,2025-05-28,2265,Notebook,Eletrônicos,3780.31,1,0.0,Cartão de Crédito,App,Niterói,RJ,3780.31,0.0,3780.31
+3371,2025-05-28,1221,Notebook,Eletrônicos,3602.08,1,0.0,Boleto,Site,Niterói,RJ,3602.08,0.0,3602.08
+1813,2025-05-28,2211,Bicicleta,Esportes,1438.84,1,5.0,Cartão de Débito,Site,Salvador,BA,1438.84,71.942,1366.898
+2,2025-05-29,1859,Notebook,Eletrônicos,3564.86,2,0.0,Pix,App,Itabira,MG,7129.72,0.0,7129.72
+4933,2025-05-29,1713,Celular,Eletrônicos,1654.33,1,0.0,Boleto,App,Betim,MG,1654.33,0.0,1654.33
+564,2025-05-29,1882,Tênis,Roupas,295.69,4,0.0,Cartão de Débito,Marketplace,Niterói,RJ,1182.76,0.0,1182.76
+1320,2025-05-30,1535,Bicicleta,Esportes,1557.26,2,5.0,Boleto,App,Ribeirão Preto,SP,3114.52,155.726,2958.794
+1953,2025-05-30,1102,Notebook,Eletrônicos,3564.86,3,15.0,Pix,Marketplace,Santos,SP,10694.58,1604.187,9090.393
+2243,2025-05-30,2169,Celular,Eletrônicos,1985.67,3,0.0,Pix,Site,Rio de Janeiro,RJ,5957.01,0.0,5957.01
+5724,2025-05-30,1246,Notebook,Eletrônicos,3918.22,2,0.0,Boleto,Marketplace,Rio de Janeiro,RJ,7836.44,0.0,7836.44
+2096,2025-05-30,2381,Bicicleta,Esportes,1512.97,4,0.0,Cartão de Débito,Site,Vitória da Conquista,BA,6051.88,0.0,6051.88
+4406,2025-05-31,2305,Notebook,Eletrônicos,3042.66,1,10.0,Pix,Site,Santos,SP,3042.66,304.266,2738.394
+1417,2025-05-31,1427,Celular,Eletrônicos,1638.07,4,10.0,Pix,Marketplace,Belo Horizonte,MG,6552.28,655.2280000000001,5897.052
+4526,2025-05-31,1272,Notebook,Eletrônicos,3172.55,1,10.0,Boleto,Site,Campinas,SP,3172.55,317.25500000000005,2855.295
+3859,2025-05-31,1854,Monitor,Eletrônicos,1027.49,4,10.0,Cartão de Débito,Site,Belo Horizonte,MG,4109.96,410.99600000000004,3698.964
+444,2025-06-01,1322,Bicicleta,Esportes,1436.88,2,10.0,Cartão de Crédito,App,São Paulo,SP,2873.76,287.37600000000003,2586.384
+5260,2025-06-01,2296,Mesa,Casa,652.92,2,0.0,Pix,App,Campinas,SP,1305.84,0.0,1305.84
+5124,2025-06-01,2287,Celular,Eletrônicos,1608.86,4,0.0,Pix,Marketplace,Ilhéus,BA,6435.44,0.0,6435.44
+5800,2025-06-01,1593,Notebook,Eletrônicos,3564.86,4,0.0,Boleto,App,Campos,RJ,14259.44,0.0,14259.44
+3337,2025-06-02,1719,Mesa,Casa,655.855,2,10.0,Cartão de Débito,Site,São Paulo,SP,1311.71,131.17100000000002,1180.539
+2916,2025-06-02,2073,Celular,Eletrônicos,1735.3,4,0.0,Cartão de Crédito,Site,Feira de Santana,BA,6941.2,0.0,6941.2
+2635,2025-06-02,1499,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Débito,Marketplace,Ribeirão Preto,SP,3564.86,0.0,3564.86
+2066,2025-06-02,1996,Bicicleta,Esportes,1278.72,1,0.0,Cartão de Débito,Site,Feira de Santana,BA,1278.72,0.0,1278.72
+2973,2025-06-03,2198,Notebook,Eletrônicos,3052.49,1,0.0,Cartão de Débito,Site,Campos,RJ,3052.49,0.0,3052.49
+3679,2025-06-04,1906,Notebook,Eletrônicos,3564.86,1,0.0,Pix,Marketplace,Feira de Santana,BA,3564.86,0.0,3564.86
+1949,2025-06-04,1531,Bicicleta,Esportes,1523.65,2,0.0,Boleto,App,Petrópolis,RJ,3047.3,0.0,3047.3
+1215,2025-06-04,1943,Celular,Eletrônicos,1826.14,3,0.0,Cartão de Débito,Marketplace,Contagem,MG,5478.42,0.0,5478.42
+1996,2025-06-04,1335,Bicicleta,Esportes,1515.29,1,0.0,Cartão de Débito,App,Vitória da Conquista,BA,1515.29,0.0,1515.29
+5563,2025-06-04,1329,Bicicleta,Esportes,1512.97,1,0.0,Cartão de Crédito,App,Santos,SP,1512.97,0.0,1512.97
+1443,2025-06-05,1063,Bicicleta,Esportes,1500.0,1,15.0,Boleto,Marketplace,Salvador,BA,1500.0,225.0,1275.0
+1928,2025-06-05,2292,Bicicleta,Esportes,1381.75,1,15.0,Boleto,Site,Ilhéus,BA,1381.75,207.2625,1174.4875
+553,2025-06-05,2407,Monitor,Eletrônicos,848.96,4,15.0,Cartão de Crédito,App,Belo Horizonte,MG,3395.84,509.376,2886.464
+3612,2025-06-06,2232,Notebook,Eletrônicos,3202.92,4,0.0,Pix,Marketplace,Vitória da Conquista,BA,12811.68,0.0,12811.68
+489,2025-06-06,2270,Celular,Eletrônicos,1864.66,4,15.0,Pix,App,São Paulo,SP,7458.64,1118.796,6339.844
+3670,2025-06-06,1342,Notebook,Eletrônicos,3148.91,4,5.0,Cartão de Débito,App,Petrópolis,RJ,12595.64,629.782,11965.858
+5916,2025-06-07,1576,Notebook,Eletrônicos,3856.53,4,0.0,Cartão de Crédito,Marketplace,Ribeirão Preto,SP,15426.12,0.0,15426.12
+3137,2025-06-07,2233,Notebook,Eletrônicos,3564.86,2,10.0,Cartão de Crédito,Marketplace,Rio de Janeiro,RJ,7129.72,712.9720000000001,6416.7480000000005
+2471,2025-06-08,2037,Bicicleta,Esportes,1450.69,2,10.0,Pix,Site,Campos,RJ,2901.38,290.13800000000003,2611.242
+3185,2025-06-08,2199,Celular,Eletrônicos,1826.14,1,10.0,Cartão de Crédito,Marketplace,Campinas,SP,1826.14,182.61400000000003,1643.526
+5586,2025-06-09,1551,Notebook,Eletrônicos,3522.2,1,0.0,Pix,Marketplace,Ilhéus,BA,3522.2,0.0,3522.2
+5199,2025-06-10,1560,Celular,Eletrônicos,1573.3,1,15.0,Cartão de Crédito,Marketplace,Feira de Santana,BA,1573.3,235.99499999999998,1337.305
+4410,2025-06-10,1742,Bicicleta,Esportes,1377.91,1,5.0,Cartão de Crédito,Site,Santos,SP,1377.91,68.89550000000001,1309.0145
+3759,2025-06-10,2300,Notebook,Eletrônicos,3482.74,2,15.0,Cartão de Débito,Site,Betim,MG,6965.48,1044.822,5920.657999999999
+5513,2025-06-12,2118,Celular,Eletrônicos,1826.14,1,10.0,Pix,Site,Niterói,RJ,1826.14,182.61400000000003,1643.526
+3593,2025-06-13,2006,Notebook,Eletrônicos,3437.18,4,15.0,Cartão de Débito,App,Petrópolis,RJ,13748.72,2062.308,11686.412
+3268,2025-06-13,2485,Notebook,Eletrônicos,3908.56,1,0.0,Cartão de Crédito,App,Petrópolis,RJ,3908.56,0.0,3908.56
+883,2025-06-13,2339,Bicicleta,Esportes,1684.58,1,15.0,Cartão de Débito,Site,Campos,RJ,1684.58,252.68699999999998,1431.893
+1555,2025-06-14,1880,Celular,Eletrônicos,1825.68,2,10.0,Pix,Marketplace,Ribeirão Preto,SP,3651.36,365.136,3286.224
+3007,2025-06-14,2003,Celular,Eletrônicos,1583.92,2,0.0,Cartão de Débito,App,Rio de Janeiro,RJ,3167.84,0.0,3167.84
+2975,2025-06-14,2173,Bicicleta,Esportes,1574.7,1,15.0,Cartão de Crédito,Marketplace,Santos,SP,1574.7,236.20499999999998,1338.4950000000001
+2842,2025-06-14,1236,Bicicleta,Esportes,1448.33,3,0.0,Cartão de Débito,App,Ribeirão Preto,SP,4344.99,0.0,4344.99
+3699,2025-06-15,1433,Mesa,Casa,742.1,2,0.0,Cartão de Débito,Site,Niterói,RJ,1484.2,0.0,1484.2
+4791,2025-06-16,1868,Celular,Eletrônicos,1759.59,2,0.0,Pix,App,Betim,MG,3519.18,0.0,3519.18
+2161,2025-06-16,1289,Mesa,Casa,703.27,3,0.0,Cartão de Crédito,App,Campos,RJ,2109.81,0.0,2109.81
+628,2025-06-16,1385,Bicicleta,Esportes,1554.43,1,5.0,Cartão de Débito,Site,Campos,RJ,1554.43,77.7215,1476.7085
+5437,2025-06-16,1239,Mesa,Casa,714.5,4,0.0,Boleto,Marketplace,Niterói,RJ,2858.0,0.0,2858.0
+2565,2025-06-17,1076,Notebook,Eletrônicos,3928.27,3,5.0,Cartão de Crédito,Site,Belo Horizonte,MG,11784.81,589.2405,11195.5695
+556,2025-06-17,2175,Notebook,Eletrônicos,3259.6,1,0.0,Pix,Site,Petrópolis,RJ,3259.6,0.0,3259.6
+4447,2025-06-17,1644,Celular,Eletrônicos,1826.14,3,15.0,Cartão de Débito,Marketplace,Campos,RJ,5478.42,821.763,4656.657
+3594,2025-06-18,1095,Mesa,Casa,646.23,4,5.0,Boleto,Site,Ilhéus,BA,2584.92,129.246,2455.674
+2503,2025-06-19,1811,Tênis,Roupas,332.26,4,10.0,Pix,Site,Ribeirão Preto,SP,1329.04,132.904,1196.136
+5043,2025-06-19,1993,Bicicleta,Esportes,1551.86,1,0.0,Cartão de Débito,Site,Niterói,RJ,1551.86,0.0,1551.86
+5075,2025-06-19,1480,Notebook,Eletrônicos,3374.08,4,0.0,Boleto,Site,Contagem,MG,13496.32,0.0,13496.32
+4549,2025-06-19,1923,Bicicleta,Esportes,1456.9,4,0.0,Boleto,App,Petrópolis,RJ,5827.6,0.0,5827.6
+267,2025-06-19,1485,Monitor,Eletrônicos,998.63,2,0.0,Pix,Marketplace,Betim,MG,1997.26,0.0,1997.26
+5593,2025-06-20,1666,Bicicleta,Esportes,1555.78,3,10.0,Boleto,Site,Rio de Janeiro,RJ,4667.34,466.73400000000004,4200.606
+5654,2025-06-21,2481,Celular,Eletrônicos,1805.45,2,10.0,Boleto,Site,São Paulo,SP,3610.9,361.09000000000003,3249.81
+5459,2025-06-22,1566,Celular,Eletrônicos,1826.14,1,0.0,Boleto,Marketplace,Campos,RJ,1826.14,0.0,1826.14
+1946,2025-06-22,1303,Notebook,Eletrônicos,3375.58,2,0.0,Pix,Marketplace,Ilhéus,BA,6751.16,0.0,6751.16
+5460,2025-06-23,2174,Bicicleta,Esportes,1454.65,1,10.0,Boleto,App,Betim,MG,1454.65,145.465,1309.1850000000002
+4006,2025-06-24,2493,Monitor,Eletrônicos,841.78,2,5.0,Cartão de Crédito,Marketplace,Petrópolis,RJ,1683.56,84.178,1599.382
+3675,2025-06-24,1916,Bicicleta,Esportes,1574.13,2,0.0,Boleto,App,Belo Horizonte,MG,3148.26,0.0,3148.26
+2964,2025-06-25,1559,Monitor,Eletrônicos,952.51,2,10.0,Cartão de Débito,Marketplace,Campos,RJ,1905.02,190.502,1714.518
+436,2025-06-27,2408,Celular,Eletrônicos,1732.52,1,10.0,Boleto,App,Belo Horizonte,MG,1732.52,173.252,1559.268
+4486,2025-06-27,2206,Celular,Eletrônicos,1642.49,1,0.0,Boleto,Site,Vitória da Conquista,BA,1642.49,0.0,1642.49
+332,2025-06-28,1539,Mesa,Casa,603.84,3,0.0,Pix,App,Salvador,BA,1811.52,0.0,1811.52
+4921,2025-06-28,1831,Celular,Eletrônicos,1826.14,3,0.0,Cartão de Débito,Marketplace,Ilhéus,BA,5478.42,0.0,5478.42
+3857,2025-06-28,2423,Mesa,Casa,655.855,3,0.0,Pix,App,Rio de Janeiro,RJ,1967.565,0.0,1967.565
+1888,2025-06-28,1757,Celular,Eletrônicos,1545.11,3,0.0,Cartão de Débito,Marketplace,Vitória da Conquista,BA,4635.33,0.0,4635.33
+1186,2025-06-29,1064,Bicicleta,Esportes,1373.21,2,0.0,Cartão de Crédito,Marketplace,Santos,SP,2746.42,0.0,2746.42
+1178,2025-06-29,1302,Celular,Eletrônicos,1826.14,4,5.0,Boleto,Site,Belo Horizonte,MG,7304.56,365.22800000000007,6939.332
+5962,2025-07-02,2184,Bicicleta,Esportes,1561.1,1,5.0,Cartão de Crédito,Marketplace,Ribeirão Preto,SP,1561.1,78.055,1483.0449999999998
+27,2025-07-02,1268,Monitor,Eletrônicos,829.45,3,0.0,Boleto,App,Santos,SP,2488.3500000000004,0.0,2488.3500000000004
+2730,2025-07-02,2393,Tênis,Roupas,280.04,4,0.0,Pix,Marketplace,Contagem,MG,1120.16,0.0,1120.16
+2543,2025-07-02,1211,Mesa,Casa,560.7,3,0.0,Cartão de Débito,Marketplace,Itabira,MG,1682.1000000000001,0.0,1682.1000000000001
+279,2025-07-03,1145,Celular,Eletrônicos,1904.78,3,0.0,Pix,App,Betim,MG,5714.34,0.0,5714.34
+3590,2025-07-03,1433,Bicicleta,Esportes,1281.43,1,0.0,Pix,Marketplace,Rio de Janeiro,RJ,1281.43,0.0,1281.43
+3868,2025-07-04,2408,Notebook,Eletrônicos,3564.86,2,15.0,Boleto,Marketplace,Petrópolis,RJ,7129.72,1069.458,6060.262000000001
+5681,2025-07-04,2412,Bicicleta,Esportes,1589.45,2,15.0,Pix,Site,Contagem,MG,3178.9,476.835,2702.065
+4306,2025-07-06,1202,Celular,Eletrônicos,1941.86,3,0.0,Cartão de Débito,App,Campinas,SP,5825.58,0.0,5825.58
+749,2025-07-06,1298,Tênis,Roupas,339.94,4,5.0,Cartão de Crédito,Marketplace,Ilhéus,BA,1359.76,67.988,1291.772
+2085,2025-07-07,1025,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Crédito,App,Santos,SP,3564.86,0.0,3564.86
+273,2025-07-07,1446,Celular,Eletrônicos,1959.67,1,15.0,Cartão de Débito,Site,Rio de Janeiro,RJ,1959.67,293.9505,1665.7195000000002
+5367,2025-07-08,1479,Notebook,Eletrônicos,3198.2,1,0.0,Boleto,Marketplace,Ribeirão Preto,SP,3198.2,0.0,3198.2
+3118,2025-07-08,2179,Notebook,Eletrônicos,3877.43,1,15.0,Cartão de Crédito,Marketplace,Itabira,MG,3877.43,581.6144999999999,3295.8154999999997
+1008,2025-07-09,1190,Celular,Eletrônicos,2042.3,4,0.0,Cartão de Crédito,Site,Niterói,RJ,8169.2,0.0,8169.2
+21,2025-07-09,2098,Notebook,Eletrônicos,3236.09,4,15.0,Cartão de Débito,Site,Rio de Janeiro,RJ,12944.36,1941.654,11002.706
+5492,2025-07-09,1555,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Débito,Marketplace,Ilhéus,BA,3564.86,0.0,3564.86
+818,2025-07-09,2018,Bicicleta,Esportes,1469.63,3,5.0,Boleto,App,Vitória da Conquista,BA,4408.89,220.44450000000003,4188.445500000001
+5450,2025-07-10,2408,Celular,Eletrônicos,1780.08,3,10.0,Boleto,App,Ribeirão Preto,SP,5340.24,534.024,4806.215999999999
+2192,2025-07-10,1462,Notebook,Eletrônicos,3811.03,2,0.0,Cartão de Débito,Marketplace,Petrópolis,RJ,7622.06,0.0,7622.06
+33,2025-07-10,2131,Notebook,Eletrônicos,3564.86,1,15.0,Pix,App,São Paulo,SP,3564.86,534.729,3030.1310000000003
+3549,2025-07-10,1203,Celular,Eletrônicos,1711.63,2,0.0,Cartão de Crédito,Site,Campos,RJ,3423.26,0.0,3423.26
+4379,2025-07-11,1090,Notebook,Eletrônicos,3564.86,4,15.0,Boleto,Marketplace,Petrópolis,RJ,14259.44,2138.916,12120.524000000001
+637,2025-07-11,2365,Celular,Eletrônicos,1826.14,3,15.0,Pix,Marketplace,Campos,RJ,5478.42,821.763,4656.657
+2575,2025-07-11,2205,Notebook,Eletrônicos,3564.86,1,15.0,Pix,Site,Belo Horizonte,MG,3564.86,534.729,3030.1310000000003
+5915,2025-07-13,2242,Celular,Eletrônicos,1718.03,1,0.0,Cartão de Débito,Site,Niterói,RJ,1718.03,0.0,1718.03
+4065,2025-07-14,1276,Notebook,Eletrônicos,3140.4,4,5.0,Cartão de Crédito,Site,Rio de Janeiro,RJ,12561.6,628.08,11933.52
+1917,2025-07-15,1564,Celular,Eletrônicos,1744.28,1,10.0,Cartão de Crédito,Site,Contagem,MG,1744.28,174.428,1569.8519999999999
+5245,2025-07-15,1153,Bicicleta,Esportes,1300.38,2,0.0,Boleto,Site,Santos,SP,2600.76,0.0,2600.76
+1656,2025-07-15,1824,Monitor,Eletrônicos,894.15,4,5.0,Cartão de Débito,Site,Betim,MG,3576.6,178.83,3397.77
+605,2025-07-16,1337,Notebook,Eletrônicos,3564.86,2,0.0,Cartão de Débito,Site,Feira de Santana,BA,7129.72,0.0,7129.72
+1455,2025-07-17,1414,Celular,Eletrônicos,1832.22,1,10.0,Pix,App,Salvador,BA,1832.22,183.222,1648.998
+4930,2025-07-17,2210,Mesa,Casa,572.18,2,0.0,Boleto,Marketplace,Ilhéus,BA,1144.36,0.0,1144.36
+3717,2025-07-18,1527,Notebook,Eletrônicos,3855.05,1,0.0,Cartão de Débito,Site,Contagem,MG,3855.05,0.0,3855.05
+3117,2025-07-18,1049,Bicicleta,Esportes,1289.3,2,0.0,Boleto,Site,Ilhéus,BA,2578.6,0.0,2578.6
+4934,2025-07-18,1340,Celular,Eletrônicos,1826.14,3,0.0,Boleto,App,Niterói,RJ,5478.42,0.0,5478.42
+1286,2025-07-18,1511,Celular,Eletrônicos,2008.94,1,15.0,Pix,App,Ilhéus,BA,2008.94,301.341,1707.5990000000002
+5094,2025-07-19,1127,Notebook,Eletrônicos,3018.07,3,0.0,Cartão de Crédito,Site,Ribeirão Preto,SP,9054.210000000001,0.0,9054.210000000001
+4443,2025-07-19,1822,Bicicleta,Esportes,1561.81,2,0.0,Pix,Marketplace,Betim,MG,3123.62,0.0,3123.62
+3922,2025-07-20,2213,Monitor,Eletrônicos,913.46,2,0.0,Cartão de Crédito,App,Belo Horizonte,MG,1826.92,0.0,1826.92
+4159,2025-07-20,2391,Celular,Eletrônicos,1826.14,4,15.0,Pix,Site,Ilhéus,BA,7304.56,1095.684,6208.876
+591,2025-07-21,1567,Celular,Eletrônicos,1668.96,1,0.0,Cartão de Crédito,App,Ilhéus,BA,1668.96,0.0,1668.96
+4698,2025-07-21,1543,Tênis,Roupas,295.69,4,5.0,Cartão de Crédito,Marketplace,Salvador,BA,1182.76,59.138000000000005,1123.622
+3092,2025-07-21,2358,Celular,Eletrônicos,1905.5,3,10.0,Cartão de Crédito,Marketplace,Feira de Santana,BA,5716.5,571.65,5144.85
+539,2025-07-22,1661,Bicicleta,Esportes,1316.91,1,5.0,Boleto,App,Rio de Janeiro,RJ,1316.91,65.8455,1251.0645000000002
+1174,2025-07-22,2244,Celular,Eletrônicos,1996.12,2,0.0,Cartão de Débito,App,Belo Horizonte,MG,3992.24,0.0,3992.24
+2741,2025-07-23,1133,Bicicleta,Esportes,1512.97,1,10.0,Boleto,App,Belo Horizonte,MG,1512.97,151.297,1361.673
+4016,2025-07-23,1654,Celular,Eletrônicos,1566.55,3,5.0,Pix,Marketplace,Salvador,BA,4699.65,234.9825,4464.6675
+4324,2025-07-23,2063,Bicicleta,Esportes,1529.57,4,0.0,Boleto,App,Ribeirão Preto,SP,6118.28,0.0,6118.28
+3928,2025-07-24,1009,Bicicleta,Esportes,1656.26,2,10.0,Pix,Site,Rio de Janeiro,RJ,3312.52,331.252,2981.268
+1310,2025-07-27,1721,Celular,Eletrônicos,1971.92,1,0.0,Pix,App,Petrópolis,RJ,1971.92,0.0,1971.92
+5062,2025-07-27,1714,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Débito,App,Ribeirão Preto,SP,3564.86,0.0,3564.86
+5732,2025-07-27,1901,Notebook,Eletrônicos,3335.2,3,0.0,Pix,App,Belo Horizonte,MG,10005.599999999999,0.0,10005.599999999999
+5442,2025-07-28,1560,Notebook,Eletrônicos,3247.57,1,5.0,Boleto,Marketplace,Feira de Santana,BA,3247.57,162.37850000000003,3085.1915
+2118,2025-07-28,1836,Notebook,Eletrônicos,3033.15,1,10.0,Cartão de Crédito,Site,Campinas,SP,3033.15,303.315,2729.835
+135,2025-07-28,2259,Notebook,Eletrônicos,3651.9,3,0.0,Cartão de Débito,App,Rio de Janeiro,RJ,10955.7,0.0,10955.7
+1947,2025-07-28,1417,Notebook,Eletrônicos,3118.18,1,15.0,Cartão de Débito,App,Rio de Janeiro,RJ,3118.18,467.727,2650.453
+4707,2025-07-29,1142,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Crédito,Marketplace,Belo Horizonte,MG,3564.86,0.0,3564.86
+1373,2025-07-29,2200,Notebook,Eletrônicos,3475.72,1,5.0,Boleto,App,Vitória da Conquista,BA,3475.72,173.786,3301.9339999999997
+5898,2025-07-29,1913,Notebook,Eletrônicos,3564.86,2,5.0,Pix,App,São Paulo,SP,7129.72,356.48600000000005,6773.234
+5119,2025-07-30,1221,Notebook,Eletrônicos,3564.86,2,0.0,Cartão de Débito,Site,Belo Horizonte,MG,7129.72,0.0,7129.72
+4588,2025-07-31,1834,Celular,Eletrônicos,1970.46,2,0.0,Pix,App,Santos,SP,3940.92,0.0,3940.92
+5370,2025-07-31,2108,Celular,Eletrônicos,2026.45,1,0.0,Cartão de Débito,Marketplace,Vitória da Conquista,BA,2026.45,0.0,2026.45
+2809,2025-07-31,2093,Bicicleta,Esportes,1479.5,4,0.0,Pix,App,Salvador,BA,5918.0,0.0,5918.0
+2994,2025-07-31,1029,Notebook,Eletrônicos,3190.55,1,0.0,Cartão de Crédito,App,Niterói,RJ,3190.55,0.0,3190.55
+2331,2025-07-31,2273,Bicicleta,Esportes,1488.03,1,0.0,Pix,Site,Ribeirão Preto,SP,1488.03,0.0,1488.03
+3765,2025-07-31,1794,Bicicleta,Esportes,1695.4,2,0.0,Boleto,App,Ribeirão Preto,SP,3390.8,0.0,3390.8
+1130,2025-08-01,1570,Celular,Eletrônicos,1672.05,1,5.0,Cartão de Crédito,App,Vitória da Conquista,BA,1672.05,83.6025,1588.4475
+4230,2025-08-01,2181,Notebook,Eletrônicos,3205.96,4,10.0,Cartão de Débito,Site,Contagem,MG,12823.84,1282.384,11541.456
+3700,2025-08-01,1580,Bicicleta,Esportes,1439.0,4,0.0,Boleto,App,Campinas,SP,5756.0,0.0,5756.0
+5907,2025-08-02,2184,Celular,Eletrônicos,1887.19,1,0.0,Pix,Site,Ilhéus,BA,1887.19,0.0,1887.19
+658,2025-08-02,2214,Monitor,Eletrônicos,913.46,4,0.0,Cartão de Crédito,App,São Paulo,SP,3653.84,0.0,3653.84
+2535,2025-08-03,2112,Notebook,Eletrônicos,3382.08,2,10.0,Pix,Site,Niterói,RJ,6764.16,676.416,6087.744
+2562,2025-08-04,2397,Notebook,Eletrônicos,3967.23,3,0.0,Boleto,Site,Santos,SP,11901.69,0.0,11901.69
+1224,2025-08-04,1459,Monitor,Eletrônicos,913.46,4,5.0,Pix,Marketplace,Feira de Santana,BA,3653.84,182.692,3471.148
+3454,2025-08-04,1157,Celular,Eletrônicos,1826.14,1,5.0,Cartão de Crédito,App,Itabira,MG,1826.14,91.30700000000002,1734.833
+2987,2025-08-04,1106,Celular,Eletrônicos,1826.14,4,15.0,Pix,App,Ribeirão Preto,SP,7304.56,1095.684,6208.876
+2414,2025-08-04,2162,Notebook,Eletrônicos,3373.59,4,0.0,Boleto,Marketplace,Feira de Santana,BA,13494.36,0.0,13494.36
+3040,2025-08-06,2357,Mesa,Casa,659.95,4,0.0,Cartão de Crédito,Marketplace,São Paulo,SP,2639.8,0.0,2639.8
+1339,2025-08-06,1405,Bicicleta,Esportes,1419.14,4,0.0,Boleto,Marketplace,Santos,SP,5676.56,0.0,5676.56
+5720,2025-08-07,1130,Monitor,Eletrônicos,786.3,2,5.0,Cartão de Crédito,App,São Paulo,SP,1572.6,78.63,1493.9699999999998
+204,2025-08-07,1752,Monitor,Eletrônicos,951.38,2,0.0,Pix,Site,Ilhéus,BA,1902.76,0.0,1902.76
+1297,2025-08-07,2477,Monitor,Eletrônicos,891.36,2,5.0,Boleto,Site,Vitória da Conquista,BA,1782.72,89.13600000000001,1693.584
+1774,2025-08-08,1536,Bicicleta,Esportes,1297.5,4,5.0,Pix,Site,Vitória da Conquista,BA,5190.0,259.5,4930.5
+728,2025-08-08,1233,Monitor,Eletrônicos,972.53,2,0.0,Cartão de Débito,Site,Rio de Janeiro,RJ,1945.06,0.0,1945.06
+3482,2025-08-08,1486,Mesa,Casa,576.92,4,10.0,Cartão de Crédito,App,Vitória da Conquista,BA,2307.68,230.768,2076.912
+2634,2025-08-10,1520,Monitor,Eletrônicos,998.11,2,0.0,Boleto,App,Contagem,MG,1996.22,0.0,1996.22
+3206,2025-08-10,1196,Celular,Eletrônicos,1695.87,4,0.0,Boleto,App,Petrópolis,RJ,6783.48,0.0,6783.48
+472,2025-08-10,1977,Notebook,Eletrônicos,3536.85,1,0.0,Boleto,Site,Campos,RJ,3536.85,0.0,3536.85
+1249,2025-08-11,1998,Bicicleta,Esportes,1714.75,2,15.0,Cartão de Crédito,App,Salvador,BA,3429.5,514.425,2915.075
+3515,2025-08-11,1856,Notebook,Eletrônicos,3564.86,2,10.0,Boleto,App,Vitória da Conquista,BA,7129.72,712.9720000000001,6416.7480000000005
+1832,2025-08-11,2359,Notebook,Eletrônicos,3564.86,2,0.0,Cartão de Débito,Site,Itabira,MG,7129.72,0.0,7129.72
+1974,2025-08-11,1021,Bicicleta,Esportes,1284.36,3,0.0,Boleto,Marketplace,Campos,RJ,3853.08,0.0,3853.08
+1271,2025-08-12,1645,Notebook,Eletrônicos,3977.39,1,0.0,Pix,Marketplace,Santos,SP,3977.39,0.0,3977.39
+747,2025-08-12,1699,Tênis,Roupas,330.13,4,0.0,Boleto,Marketplace,Itabira,MG,1320.52,0.0,1320.52
+3226,2025-08-13,1920,Mesa,Casa,638.79,4,0.0,Cartão de Débito,Site,Itabira,MG,2555.16,0.0,2555.16
+2430,2025-08-14,1569,Monitor,Eletrônicos,799.76,4,0.0,Cartão de Crédito,Site,Campinas,SP,3199.04,0.0,3199.04
+1023,2025-08-14,1135,Celular,Eletrônicos,1826.14,3,0.0,Cartão de Débito,App,Ilhéus,BA,5478.42,0.0,5478.42
+4412,2025-08-15,1205,Monitor,Eletrônicos,983.74,2,0.0,Pix,Site,Rio de Janeiro,RJ,1967.48,0.0,1967.48
+714,2025-08-15,1646,Mesa,Casa,637.48,2,0.0,Cartão de Débito,Site,Petrópolis,RJ,1274.96,0.0,1274.96
+3063,2025-08-15,1753,Celular,Eletrônicos,1826.14,4,5.0,Cartão de Crédito,Site,Campos,RJ,7304.56,365.22800000000007,6939.332
+4273,2025-08-16,2032,Bicicleta,Esportes,1623.77,4,0.0,Cartão de Crédito,Site,Betim,MG,6495.08,0.0,6495.08
+838,2025-08-17,1077,Celular,Eletrônicos,1992.12,1,5.0,Cartão de Crédito,App,Campos,RJ,1992.12,99.606,1892.514
+5543,2025-08-17,1180,Monitor,Eletrônicos,1007.76,2,0.0,Boleto,App,Betim,MG,2015.52,0.0,2015.52
+2593,2025-08-17,2149,Celular,Eletrônicos,1812.34,1,0.0,Cartão de Débito,App,Niterói,RJ,1812.34,0.0,1812.34
+2894,2025-08-18,1885,Celular,Eletrônicos,1909.71,2,0.0,Boleto,App,Belo Horizonte,MG,3819.42,0.0,3819.42
+1944,2025-08-19,2062,Celular,Eletrônicos,1788.62,1,0.0,Boleto,Site,Salvador,BA,1788.62,0.0,1788.62
+2979,2025-08-19,1536,Monitor,Eletrônicos,807.0,4,0.0,Cartão de Crédito,Marketplace,São Paulo,SP,3228.0,0.0,3228.0
+238,2025-08-19,2004,Bicicleta,Esportes,1560.36,4,0.0,Pix,App,Rio de Janeiro,RJ,6241.44,0.0,6241.44
+1117,2025-08-20,1470,Bicicleta,Esportes,1477.04,1,0.0,Pix,Marketplace,Feira de Santana,BA,1477.04,0.0,1477.04
+2246,2025-08-20,2098,Monitor,Eletrônicos,913.46,2,0.0,Pix,App,São Paulo,SP,1826.92,0.0,1826.92
+967,2025-08-21,1161,Celular,Eletrônicos,1609.32,1,5.0,Pix,Site,São Paulo,SP,1609.32,80.46600000000001,1528.8539999999998
+1918,2025-08-21,1304,Monitor,Eletrônicos,941.36,3,0.0,Cartão de Crédito,Marketplace,Rio de Janeiro,RJ,2824.08,0.0,2824.08
+2753,2025-08-22,2008,Notebook,Eletrônicos,3670.15,3,10.0,Pix,Site,Campinas,SP,11010.45,1101.045,9909.405
+3387,2025-08-22,2334,Notebook,Eletrônicos,3937.39,3,0.0,Cartão de Débito,App,Itabira,MG,11812.17,0.0,11812.17
+5497,2025-08-22,2361,Mesa,Casa,655.855,2,10.0,Cartão de Crédito,App,Campinas,SP,1311.71,131.17100000000002,1180.539
+2064,2025-08-22,1662,Celular,Eletrônicos,1866.66,4,0.0,Pix,App,Belo Horizonte,MG,7466.64,0.0,7466.64
+3221,2025-08-22,2142,Celular,Eletrônicos,1697.15,1,0.0,Pix,Marketplace,Ribeirão Preto,SP,1697.15,0.0,1697.15
+4111,2025-08-22,1201,Monitor,Eletrônicos,815.85,2,5.0,Cartão de Débito,App,Petrópolis,RJ,1631.7,81.58500000000001,1550.115
+1902,2025-08-23,1050,Celular,Eletrônicos,2033.51,3,0.0,Boleto,App,Ribeirão Preto,SP,6100.53,0.0,6100.53
+4251,2025-08-23,2040,Bicicleta,Esportes,1512.97,3,5.0,Cartão de Crédito,Marketplace,Petrópolis,RJ,4538.91,226.9455,4311.9645
+1113,2025-08-24,2193,Notebook,Eletrônicos,3961.94,2,0.0,Cartão de Crédito,Marketplace,Petrópolis,RJ,7923.88,0.0,7923.88
+3480,2025-08-24,1708,Celular,Eletrônicos,1911.84,2,0.0,Cartão de Crédito,App,Santos,SP,3823.68,0.0,3823.68
+5902,2025-08-25,1165,Celular,Eletrônicos,1855.04,3,0.0,Pix,Marketplace,Ilhéus,BA,5565.12,0.0,5565.12
+351,2025-08-25,2311,Bicicleta,Esportes,1303.73,2,0.0,Boleto,App,Betim,MG,2607.46,0.0,2607.46
+2466,2025-08-26,1076,Mesa,Casa,660.55,2,10.0,Cartão de Débito,App,Itabira,MG,1321.1,132.10999999999999,1188.99
+3060,2025-08-26,2226,Bicicleta,Esportes,1454.5,1,0.0,Pix,Marketplace,Niterói,RJ,1454.5,0.0,1454.5
+5761,2025-08-27,1584,Celular,Eletrônicos,1621.12,1,0.0,Boleto,App,Ribeirão Preto,SP,1621.12,0.0,1621.12
+2956,2025-08-27,1830,Bicicleta,Esportes,1485.28,2,10.0,Cartão de Crédito,Site,Rio de Janeiro,RJ,2970.56,297.056,2673.504
+4832,2025-08-27,2482,Notebook,Eletrônicos,3739.56,2,10.0,Pix,Marketplace,Petrópolis,RJ,7479.12,747.912,6731.208
+2692,2025-08-27,1589,Celular,Eletrônicos,1804.17,4,5.0,Pix,App,Rio de Janeiro,RJ,7216.68,360.83400000000006,6855.8460000000005
+1674,2025-08-28,1756,Bicicleta,Esportes,1526.97,3,0.0,Boleto,Site,São Paulo,SP,4580.91,0.0,4580.91
+3698,2025-08-28,1536,Monitor,Eletrônicos,975.48,4,0.0,Pix,Site,Santos,SP,3901.92,0.0,3901.92
+679,2025-08-28,1624,Celular,Eletrônicos,1849.97,2,0.0,Cartão de Crédito,App,Santos,SP,3699.94,0.0,3699.94
+5177,2025-08-28,1912,Notebook,Eletrônicos,3564.86,4,0.0,Cartão de Débito,App,Feira de Santana,BA,14259.44,0.0,14259.44
+2429,2025-08-29,1654,Monitor,Eletrônicos,850.06,4,5.0,Pix,Site,Belo Horizonte,MG,3400.24,170.012,3230.2279999999996
+2705,2025-08-30,1266,Bicicleta,Esportes,1410.3,1,0.0,Boleto,Site,Salvador,BA,1410.3,0.0,1410.3
+2800,2025-08-30,1537,Celular,Eletrônicos,1826.14,4,5.0,Cartão de Crédito,Site,Itabira,MG,7304.56,365.22800000000007,6939.332
+5611,2025-08-30,1646,Notebook,Eletrônicos,3613.68,2,0.0,Cartão de Débito,Site,Santos,SP,7227.36,0.0,7227.36
+594,2025-08-31,1304,Notebook,Eletrônicos,2994.7,1,10.0,Cartão de Crédito,Site,Campos,RJ,2994.7,299.46999999999997,2695.23
+337,2025-08-31,1938,Notebook,Eletrônicos,3564.86,4,10.0,Cartão de Crédito,Marketplace,Ilhéus,BA,14259.44,1425.9440000000002,12833.496000000001
+588,2025-09-01,1449,Notebook,Eletrônicos,3694.77,1,5.0,Boleto,App,Belo Horizonte,MG,3694.77,184.73850000000002,3510.0315
+5262,2025-09-02,2115,Notebook,Eletrônicos,3941.78,1,15.0,Cartão de Crédito,App,Petrópolis,RJ,3941.78,591.267,3350.513
+165,2025-09-03,2441,Notebook,Eletrônicos,3249.87,1,5.0,Cartão de Débito,Site,Salvador,BA,3249.87,162.4935,3087.3765
+2913,2025-09-03,2228,Notebook,Eletrônicos,3867.06,2,0.0,Pix,App,Salvador,BA,7734.12,0.0,7734.12
+4942,2025-09-03,1287,Monitor,Eletrônicos,932.88,2,0.0,Cartão de Débito,App,Betim,MG,1865.76,0.0,1865.76
+4173,2025-09-03,1522,Bicicleta,Esportes,1512.97,2,0.0,Cartão de Débito,Site,Contagem,MG,3025.94,0.0,3025.94
+243,2025-09-03,1616,Celular,Eletrônicos,1621.53,2,10.0,Boleto,App,Ribeirão Preto,SP,3243.06,324.30600000000004,2918.754
+96,2025-09-04,2203,Monitor,Eletrônicos,884.27,2,15.0,Boleto,Marketplace,São Paulo,SP,1768.54,265.281,1503.259
+581,2025-09-04,1359,Celular,Eletrônicos,1885.94,1,10.0,Boleto,Marketplace,Campinas,SP,1885.94,188.59400000000002,1697.346
+5076,2025-09-05,1046,Notebook,Eletrônicos,2980.07,3,0.0,Boleto,Site,Santos,SP,8940.210000000001,0.0,8940.210000000001
+4849,2025-09-05,2004,Celular,Eletrônicos,1547.69,2,15.0,Cartão de Crédito,Site,Niterói,RJ,3095.38,464.307,2631.0730000000003
+5148,2025-09-06,1792,Notebook,Eletrônicos,3987.53,3,5.0,Pix,Site,Petrópolis,RJ,11962.59,598.1295,11364.460500000001
+5741,2025-09-06,2106,Notebook,Eletrônicos,3867.13,1,0.0,Pix,Site,Betim,MG,3867.13,0.0,3867.13
+3220,2025-09-06,1619,Monitor,Eletrônicos,774.01,4,0.0,Cartão de Débito,App,Belo Horizonte,MG,3096.04,0.0,3096.04
+1802,2025-09-06,1239,Bicicleta,Esportes,1340.57,1,15.0,Cartão de Crédito,Site,Campinas,SP,1340.57,201.0855,1139.4845
+496,2025-09-06,1369,Celular,Eletrônicos,2006.72,3,15.0,Cartão de Débito,Marketplace,Vitória da Conquista,BA,6020.16,903.024,5117.1359999999995
+5123,2025-09-07,1999,Celular,Eletrônicos,1549.17,2,0.0,Pix,Site,São Paulo,SP,3098.34,0.0,3098.34
+2685,2025-09-07,1614,Bicicleta,Esportes,1418.96,1,0.0,Boleto,Site,Salvador,BA,1418.96,0.0,1418.96
+5656,2025-09-08,1683,Celular,Eletrônicos,1826.14,1,0.0,Cartão de Débito,Marketplace,Feira de Santana,BA,1826.14,0.0,1826.14
+4330,2025-09-09,1630,Notebook,Eletrônicos,3498.65,1,0.0,Boleto,Marketplace,Itabira,MG,3498.65,0.0,3498.65
+3663,2025-09-09,1435,Celular,Eletrônicos,1733.16,1,15.0,Pix,App,Betim,MG,1733.16,259.974,1473.1860000000001
+5187,2025-09-09,1101,Notebook,Eletrônicos,3038.49,2,0.0,Boleto,Site,Ilhéus,BA,6076.98,0.0,6076.98
+2493,2025-09-09,1574,Bicicleta,Esportes,1512.97,1,0.0,Pix,App,Niterói,RJ,1512.97,0.0,1512.97
+3876,2025-09-10,1732,Bicicleta,Esportes,1512.97,2,0.0,Pix,Marketplace,São Paulo,SP,3025.94,0.0,3025.94
+3693,2025-09-10,1334,Bicicleta,Esportes,1676.29,2,0.0,Boleto,Site,Campos,RJ,3352.58,0.0,3352.58
+1263,2025-09-10,1522,Mesa,Casa,591.3,2,5.0,Cartão de Crédito,Site,Petrópolis,RJ,1182.6,59.129999999999995,1123.4699999999998
+4165,2025-09-10,1182,Notebook,Eletrônicos,3607.56,2,10.0,Cartão de Crédito,Site,Betim,MG,7215.12,721.5120000000001,6493.608
+116,2025-09-10,2340,Bicicleta,Esportes,1631.89,2,5.0,Pix,App,Salvador,BA,3263.78,163.18900000000002,3100.5910000000003
+2537,2025-09-11,2242,Celular,Eletrônicos,1875.66,2,5.0,Boleto,App,Contagem,MG,3751.32,187.56600000000003,3563.754
+3509,2025-09-11,1287,Monitor,Eletrônicos,1007.03,2,10.0,Cartão de Crédito,Marketplace,Campos,RJ,2014.06,201.406,1812.654
+901,2025-09-14,1508,Notebook,Eletrônicos,4000.96,2,0.0,Boleto,Site,Ribeirão Preto,SP,8001.92,0.0,8001.92
+4702,2025-09-15,2267,Notebook,Eletrônicos,3658.07,1,0.0,Boleto,Site,Feira de Santana,BA,3658.07,0.0,3658.07
+3202,2025-09-15,1418,Notebook,Eletrônicos,3957.39,2,0.0,Cartão de Débito,Site,Santos,SP,7914.78,0.0,7914.78
+3168,2025-09-15,1387,Bicicleta,Esportes,1519.62,1,5.0,Cartão de Débito,Marketplace,Rio de Janeiro,RJ,1519.62,75.981,1443.639
+5569,2025-09-15,2294,Monitor,Eletrônicos,812.68,3,0.0,Pix,App,Niterói,RJ,2438.04,0.0,2438.04
+5359,2025-09-16,2415,Tênis,Roupas,335.31,4,15.0,Pix,Site,São Paulo,SP,1341.24,201.186,1140.054
+1796,2025-09-16,1493,Monitor,Eletrônicos,938.28,2,5.0,Cartão de Crédito,Site,Belo Horizonte,MG,1876.56,93.828,1782.732
+2193,2025-09-16,1394,Bicicleta,Esportes,1614.77,2,15.0,Pix,App,Campinas,SP,3229.54,484.431,2745.109
+4134,2025-09-17,1672,Celular,Eletrônicos,1587.73,1,0.0,Pix,App,São Paulo,SP,1587.73,0.0,1587.73
+1585,2025-09-17,2330,Celular,Eletrônicos,1832.44,1,0.0,Pix,Site,São Paulo,SP,1832.44,0.0,1832.44
+1886,2025-09-17,1274,Bicicleta,Esportes,1526.87,4,0.0,Boleto,App,Campinas,SP,6107.48,0.0,6107.48
+3498,2025-09-18,1809,Notebook,Eletrônicos,3820.03,4,0.0,Cartão de Crédito,Site,Belo Horizonte,MG,15280.12,0.0,15280.12
+3732,2025-09-19,1551,Bicicleta,Esportes,1574.15,1,0.0,Cartão de Crédito,App,Itabira,MG,1574.15,0.0,1574.15
+599,2025-09-20,2474,Celular,Eletrônicos,1549.28,1,15.0,Pix,App,Campinas,SP,1549.28,232.392,1316.888
+2816,2025-09-20,1154,Notebook,Eletrônicos,3811.6,1,15.0,Boleto,Marketplace,Campinas,SP,3811.6,571.74,3239.8599999999997
+3492,2025-09-20,2190,Notebook,Eletrônicos,3832.23,4,0.0,Boleto,Marketplace,São Paulo,SP,15328.92,0.0,15328.92
+2244,2025-09-20,2116,Celular,Eletrônicos,1943.1,1,0.0,Cartão de Débito,Marketplace,Campos,RJ,1943.1,0.0,1943.1
+3789,2025-09-21,1274,Mesa,Casa,651.59,4,0.0,Cartão de Débito,Site,Niterói,RJ,2606.36,0.0,2606.36
+4191,2025-09-21,2191,Monitor,Eletrônicos,870.19,2,10.0,Boleto,Site,Belo Horizonte,MG,1740.38,174.038,1566.342
+5869,2025-09-22,1994,Bicicleta,Esportes,1318.93,2,0.0,Cartão de Débito,Marketplace,Petrópolis,RJ,2637.86,0.0,2637.86
+4206,2025-09-23,2222,Notebook,Eletrônicos,3715.21,2,0.0,Cartão de Débito,Marketplace,Vitória da Conquista,BA,7430.42,0.0,7430.42
+5209,2025-09-23,1857,Mesa,Casa,665.6,4,0.0,Boleto,Site,São Paulo,SP,2662.4,0.0,2662.4
+896,2025-09-24,1169,Monitor,Eletrônicos,768.13,4,0.0,Cartão de Crédito,App,Ilhéus,BA,3072.52,0.0,3072.52
+3224,2025-09-24,1614,Mesa,Casa,655.855,2,15.0,Boleto,App,Campos,RJ,1311.71,196.7565,1114.9535
+3032,2025-09-24,1647,Celular,Eletrônicos,2005.29,1,5.0,Cartão de Crédito,Marketplace,Salvador,BA,2005.29,100.2645,1905.0255
+4976,2025-09-24,1800,Notebook,Eletrônicos,3564.86,2,0.0,Pix,Marketplace,Campos,RJ,7129.72,0.0,7129.72
+32,2025-09-25,2129,Notebook,Eletrônicos,3144.66,3,0.0,Cartão de Débito,Marketplace,Santos,SP,9433.98,0.0,9433.98
+180,2025-09-26,1099,Notebook,Eletrônicos,3200.9,4,10.0,Cartão de Crédito,App,Feira de Santana,BA,12803.6,1280.3600000000001,11523.24
+1067,2025-09-26,2064,Monitor,Eletrônicos,806.32,2,0.0,Cartão de Crédito,Site,Belo Horizonte,MG,1612.64,0.0,1612.64
+5810,2025-09-27,1741,Celular,Eletrônicos,2002.66,1,5.0,Boleto,Site,Ribeirão Preto,SP,2002.66,100.13300000000001,1902.527
+4328,2025-09-27,2313,Celular,Eletrônicos,1958.21,1,10.0,Boleto,App,São Paulo,SP,1958.21,195.82100000000003,1762.3890000000001
+338,2025-09-27,2193,Bicicleta,Esportes,1512.97,4,0.0,Cartão de Crédito,Site,Feira de Santana,BA,6051.88,0.0,6051.88
+2629,2025-09-27,1656,Celular,Eletrônicos,1594.1,1,15.0,Cartão de Crédito,App,Vitória da Conquista,BA,1594.1,239.11499999999998,1354.985
+272,2025-09-27,2191,Monitor,Eletrônicos,1021.57,2,15.0,Cartão de Crédito,Marketplace,Campos,RJ,2043.14,306.471,1736.669
+4619,2025-09-28,2326,Bicicleta,Esportes,1393.15,3,5.0,Cartão de Crédito,App,Campinas,SP,4179.450000000001,208.97250000000005,3970.477500000001
+4450,2025-09-28,2061,Celular,Eletrônicos,2012.1,2,0.0,Pix,Site,São Paulo,SP,4024.2,0.0,4024.2
+3494,2025-09-29,1155,Celular,Eletrônicos,1800.43,1,0.0,Boleto,Site,São Paulo,SP,1800.43,0.0,1800.43
+2181,2025-09-29,1375,Notebook,Eletrônicos,3168.99,2,10.0,Boleto,App,Campinas,SP,6337.98,633.798,5704.182
+2210,2025-09-30,1742,Celular,Eletrônicos,1885.57,2,5.0,Boleto,Site,Feira de Santana,BA,3771.14,188.55700000000002,3582.5829999999996
+4374,2025-09-30,1204,Notebook,Eletrônicos,3400.67,1,0.0,Boleto,Site,Campos,RJ,3400.67,0.0,3400.67
+4148,2025-09-30,1680,Celular,Eletrônicos,1826.14,4,15.0,Boleto,Marketplace,Belo Horizonte,MG,7304.56,1095.684,6208.876
+1071,2025-10-01,1303,Mesa,Casa,633.79,4,15.0,Cartão de Crédito,App,Betim,MG,2535.16,380.27399999999994,2154.886
+2758,2025-10-02,2418,Monitor,Eletrônicos,836.14,3,0.0,Boleto,Site,Campos,RJ,2508.42,0.0,2508.42
+1079,2025-10-02,1220,Celular,Eletrônicos,2028.72,1,5.0,Cartão de Débito,App,Rio de Janeiro,RJ,2028.72,101.436,1927.284
+5813,2025-10-02,1509,Notebook,Eletrônicos,3481.88,2,5.0,Cartão de Crédito,Marketplace,Campos,RJ,6963.76,348.18800000000005,6615.572
+3733,2025-10-03,1263,Notebook,Eletrônicos,3573.87,2,0.0,Boleto,Site,Contagem,MG,7147.74,0.0,7147.74
+5746,2025-10-03,1534,Monitor,Eletrônicos,913.46,4,10.0,Pix,Site,Vitória da Conquista,BA,3653.84,365.384,3288.456
+1382,2025-10-04,1497,Celular,Eletrônicos,1967.81,3,0.0,Cartão de Crédito,Site,Belo Horizonte,MG,5903.43,0.0,5903.43
+4616,2025-10-04,1631,Celular,Eletrônicos,1826.14,1,5.0,Pix,Marketplace,Campinas,SP,1826.14,91.30700000000002,1734.833
+2889,2025-10-05,1636,Celular,Eletrônicos,1972.58,1,0.0,Cartão de Crédito,App,Feira de Santana,BA,1972.58,0.0,1972.58
+369,2025-10-05,1733,Notebook,Eletrônicos,3848.07,1,0.0,Cartão de Débito,App,Santos,SP,3848.07,0.0,3848.07
+1264,2025-10-07,1123,Celular,Eletrônicos,1826.14,4,5.0,Boleto,Site,Vitória da Conquista,BA,7304.56,365.22800000000007,6939.332
+2518,2025-10-07,2166,Notebook,Eletrônicos,3846.69,1,15.0,Pix,Site,Ribeirão Preto,SP,3846.69,577.0035,3269.6865
+3157,2025-10-07,2177,Monitor,Eletrônicos,858.21,2,0.0,Cartão de Débito,App,Ilhéus,BA,1716.42,0.0,1716.42
+1148,2025-10-07,1662,Celular,Eletrônicos,1978.99,1,0.0,Cartão de Débito,Marketplace,Feira de Santana,BA,1978.99,0.0,1978.99
+4425,2025-10-08,2479,Mesa,Casa,601.74,4,0.0,Cartão de Débito,Site,Rio de Janeiro,RJ,2406.96,0.0,2406.96
+1529,2025-10-09,1560,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Débito,Marketplace,Campinas,SP,3564.86,0.0,3564.86
+93,2025-10-09,1664,Celular,Eletrônicos,2017.85,1,5.0,Cartão de Crédito,App,Santos,SP,2017.85,100.8925,1916.9575
+3611,2025-10-09,1854,Celular,Eletrônicos,1976.18,2,0.0,Pix,Site,Feira de Santana,BA,3952.36,0.0,3952.36
+1848,2025-10-09,1453,Bicicleta,Esportes,1557.09,2,0.0,Boleto,Marketplace,Contagem,MG,3114.18,0.0,3114.18
+2642,2025-10-10,1486,Celular,Eletrônicos,1650.02,4,10.0,Cartão de Crédito,Marketplace,Betim,MG,6600.08,660.008,5940.072
+4737,2025-10-11,1224,Bicicleta,Esportes,1512.97,1,5.0,Boleto,Marketplace,Salvador,BA,1512.97,75.6485,1437.3215
+5267,2025-10-12,1450,Bicicleta,Esportes,1380.72,3,0.0,Cartão de Débito,App,Petrópolis,RJ,4142.16,0.0,4142.16
+4451,2025-10-12,2476,Bicicleta,Esportes,1290.03,1,5.0,Cartão de Crédito,Marketplace,Betim,MG,1290.03,64.50150000000001,1225.5285
+3619,2025-10-12,1896,Tênis,Roupas,294.68,4,0.0,Pix,App,Petrópolis,RJ,1178.72,0.0,1178.72
+3887,2025-10-13,1131,Bicicleta,Esportes,1512.97,3,15.0,Cartão de Débito,Site,Santos,SP,4538.91,680.8365,3858.0735
+1829,2025-10-13,2431,Notebook,Eletrônicos,3564.86,1,0.0,Boleto,Site,Contagem,MG,3564.86,0.0,3564.86
+945,2025-10-14,1664,Celular,Eletrônicos,2015.1,2,15.0,Cartão de Crédito,Marketplace,Ribeirão Preto,SP,4030.2,604.53,3425.67
+3465,2025-10-14,1300,Mesa,Casa,655.855,4,5.0,Cartão de Débito,Site,Petrópolis,RJ,2623.42,131.17100000000002,2492.2490000000003
+186,2025-10-14,1678,Bicicleta,Esportes,1642.09,1,15.0,Cartão de Crédito,App,Campos,RJ,1642.09,246.31349999999998,1395.7765
+1296,2025-10-15,1868,Celular,Eletrônicos,1826.14,1,15.0,Pix,App,Campinas,SP,1826.14,273.921,1552.219
+3130,2025-10-15,2179,Celular,Eletrônicos,1656.12,1,10.0,Boleto,Site,Ribeirão Preto,SP,1656.12,165.612,1490.5079999999998
+3891,2025-10-15,1488,Notebook,Eletrônicos,3405.81,2,0.0,Cartão de Crédito,Site,Ilhéus,BA,6811.62,0.0,6811.62
+1225,2025-10-15,1340,Bicicleta,Esportes,1421.26,1,10.0,Cartão de Débito,Marketplace,Salvador,BA,1421.26,142.126,1279.134
+3389,2025-10-16,1597,Mesa,Casa,587.13,3,0.0,Pix,Site,Petrópolis,RJ,1761.3899999999999,0.0,1761.3899999999999
+5722,2025-10-16,2240,Notebook,Eletrônicos,3564.86,4,5.0,Cartão de Crédito,Marketplace,Petrópolis,RJ,14259.44,712.9720000000001,13546.468
+5096,2025-10-16,1401,Celular,Eletrônicos,1826.14,1,0.0,Boleto,Marketplace,Belo Horizonte,MG,1826.14,0.0,1826.14
+2716,2025-10-18,2028,Mesa,Casa,679.26,3,10.0,Boleto,Site,Petrópolis,RJ,2037.78,203.77800000000002,1834.002
+4272,2025-10-19,2035,Bicicleta,Esportes,1482.18,4,0.0,Cartão de Crédito,App,Ribeirão Preto,SP,5928.72,0.0,5928.72
+3246,2025-10-19,1795,Celular,Eletrônicos,1880.82,1,5.0,Boleto,Site,São Paulo,SP,1880.82,94.041,1786.779
+2088,2025-10-20,1227,Notebook,Eletrônicos,3806.96,2,0.0,Pix,Marketplace,Campos,RJ,7613.92,0.0,7613.92
+2171,2025-10-21,2220,Bicicleta,Esportes,1608.99,1,5.0,Cartão de Débito,App,Ribeirão Preto,SP,1608.99,80.4495,1528.5405
+1449,2025-10-21,1011,Celular,Eletrônicos,1790.36,1,0.0,Cartão de Débito,Marketplace,Itabira,MG,1790.36,0.0,1790.36
+2468,2025-10-21,2222,Notebook,Eletrônicos,3323.07,2,0.0,Cartão de Débito,Marketplace,Niterói,RJ,6646.14,0.0,6646.14
+538,2025-10-22,1330,Bicicleta,Esportes,1324.0,2,0.0,Boleto,Marketplace,Belo Horizonte,MG,2648.0,0.0,2648.0
+5729,2025-10-22,1566,Bicicleta,Esportes,1463.8,4,0.0,Cartão de Débito,App,Belo Horizonte,MG,5855.2,0.0,5855.2
+5541,2025-10-22,2245,Bicicleta,Esportes,1512.97,1,15.0,Cartão de Crédito,Site,Betim,MG,1512.97,226.9455,1286.0245
+5909,2025-10-23,2339,Bicicleta,Esportes,1378.35,1,0.0,Cartão de Débito,App,Feira de Santana,BA,1378.35,0.0,1378.35
+1147,2025-10-23,2478,Monitor,Eletrônicos,913.46,4,0.0,Cartão de Débito,Site,Rio de Janeiro,RJ,3653.84,0.0,3653.84
+1864,2025-10-23,2030,Celular,Eletrônicos,1587.46,3,10.0,Cartão de Débito,Site,Betim,MG,4762.38,476.23800000000006,4286.142
+5701,2025-10-23,1341,Mesa,Casa,655.855,3,0.0,Cartão de Débito,Marketplace,Niterói,RJ,1967.565,0.0,1967.565
+4703,2025-10-23,1564,Celular,Eletrônicos,1928.32,1,0.0,Cartão de Débito,App,Niterói,RJ,1928.32,0.0,1928.32
+4570,2025-10-25,1914,Notebook,Eletrônicos,3341.99,1,0.0,Boleto,Site,Vitória da Conquista,BA,3341.99,0.0,3341.99
+4751,2025-10-25,2179,Bicicleta,Esportes,1512.97,3,5.0,Pix,Site,Ilhéus,BA,4538.91,226.9455,4311.9645
+2208,2025-10-26,2303,Mesa,Casa,724.77,2,5.0,Boleto,Marketplace,Rio de Janeiro,RJ,1449.54,72.477,1377.0629999999999
+4935,2025-10-27,1272,Monitor,Eletrônicos,913.46,4,10.0,Boleto,App,Campinas,SP,3653.84,365.384,3288.456
+1348,2025-10-27,1144,Celular,Eletrônicos,1888.0,4,0.0,Cartão de Crédito,Site,Feira de Santana,BA,7552.0,0.0,7552.0
+5125,2025-10-27,1854,Celular,Eletrônicos,2000.52,1,5.0,Pix,Marketplace,Campinas,SP,2000.52,100.02600000000001,1900.494
+3464,2025-10-28,2324,Notebook,Eletrônicos,3564.86,1,0.0,Boleto,Marketplace,Itabira,MG,3564.86,0.0,3564.86
+5415,2025-10-28,2218,Bicicleta,Esportes,1452.72,1,0.0,Cartão de Crédito,Marketplace,Feira de Santana,BA,1452.72,0.0,1452.72
+2352,2025-10-29,1792,Celular,Eletrônicos,1826.14,3,10.0,Pix,Marketplace,Vitória da Conquista,BA,5478.42,547.842,4930.578
+2009,2025-10-29,2245,Bicicleta,Esportes,1704.12,2,5.0,Boleto,Site,Rio de Janeiro,RJ,3408.24,170.412,3237.828
+1492,2025-10-30,2310,Mesa,Casa,691.62,2,5.0,Cartão de Crédito,Site,São Paulo,SP,1383.24,69.162,1314.078
+4920,2025-10-30,1408,Headset,Eletrônicos,278.41,4,0.0,Cartão de Débito,App,Petrópolis,RJ,1113.64,0.0,1113.64
+1506,2025-10-30,1448,Notebook,Eletrônicos,3738.6,1,0.0,Cartão de Débito,Site,Contagem,MG,3738.6,0.0,3738.6
+2914,2025-10-30,2344,Bicicleta,Esportes,1401.47,1,10.0,Cartão de Crédito,App,São Paulo,SP,1401.47,140.14700000000002,1261.323
+4990,2025-10-31,2001,Monitor,Eletrônicos,796.88,4,5.0,Boleto,App,Feira de Santana,BA,3187.52,159.376,3028.144
+4531,2025-10-31,1503,Notebook,Eletrônicos,3643.13,2,0.0,Pix,Marketplace,Rio de Janeiro,RJ,7286.26,0.0,7286.26
+2279,2025-10-31,1607,Bicicleta,Esportes,1408.71,4,15.0,Cartão de Crédito,App,Campos,RJ,5634.84,845.226,4789.6140000000005
+5291,2025-11-01,1935,Notebook,Eletrônicos,3725.22,1,5.0,Pix,Site,Feira de Santana,BA,3725.22,186.261,3538.959
+1133,2025-11-02,2379,Celular,Eletrônicos,2000.94,1,0.0,Pix,App,Ribeirão Preto,SP,2000.94,0.0,2000.94
+4719,2025-11-02,1480,Celular,Eletrônicos,1943.51,4,15.0,Cartão de Débito,Site,Santos,SP,7774.04,1166.106,6607.934
+2955,2025-11-02,2149,Notebook,Eletrônicos,3462.07,2,5.0,Cartão de Débito,Marketplace,Campos,RJ,6924.14,346.20700000000005,6577.933
+1380,2025-11-03,1869,Celular,Eletrônicos,1826.14,2,15.0,Cartão de Débito,Marketplace,Ilhéus,BA,3652.28,547.842,3104.438
+1973,2025-11-04,1624,Celular,Eletrônicos,1693.1,2,0.0,Cartão de Débito,Marketplace,Petrópolis,RJ,3386.2,0.0,3386.2
+1082,2025-11-04,2168,Bicicleta,Esportes,1360.56,1,0.0,Cartão de Débito,Marketplace,Ribeirão Preto,SP,1360.56,0.0,1360.56
+5037,2025-11-05,1288,Bicicleta,Esportes,1605.88,2,0.0,Boleto,App,Petrópolis,RJ,3211.76,0.0,3211.76
+507,2025-11-07,1999,Monitor,Eletrônicos,894.85,4,0.0,Cartão de Débito,Marketplace,Campinas,SP,3579.4,0.0,3579.4
+3297,2025-11-09,1628,Monitor,Eletrônicos,969.43,2,5.0,Pix,App,Betim,MG,1938.86,96.943,1841.917
+1593,2025-11-09,2026,Bicicleta,Esportes,1342.76,1,0.0,Cartão de Crédito,App,Salvador,BA,1342.76,0.0,1342.76
+4745,2025-11-09,2029,Notebook,Eletrônicos,3817.31,1,0.0,Pix,Site,Campinas,SP,3817.31,0.0,3817.31
+3878,2025-11-09,1557,Notebook,Eletrônicos,3453.06,1,0.0,Cartão de Débito,Site,Ilhéus,BA,3453.06,0.0,3453.06
+231,2025-11-11,1812,Notebook,Eletrônicos,3830.98,1,0.0,Cartão de Crédito,App,Santos,SP,3830.98,0.0,3830.98
+4110,2025-11-11,1800,Bicicleta,Esportes,1382.13,3,0.0,Boleto,Site,Niterói,RJ,4146.39,0.0,4146.39
+275,2025-11-11,1903,Notebook,Eletrônicos,3105.45,1,15.0,Cartão de Débito,Site,Salvador,BA,3105.45,465.81749999999994,2639.6324999999997
+5689,2025-11-11,1625,Notebook,Eletrônicos,3821.95,1,0.0,Cartão de Débito,App,São Paulo,SP,3821.95,0.0,3821.95
+1853,2025-11-11,1684,Notebook,Eletrônicos,3771.7,4,5.0,Boleto,Site,Vitória da Conquista,BA,15086.8,754.34,14332.46
+5483,2025-11-12,1366,Notebook,Eletrônicos,3017.09,1,0.0,Pix,Site,Belo Horizonte,MG,3017.09,0.0,3017.09
+3949,2025-11-12,2456,Notebook,Eletrônicos,4020.04,2,10.0,Cartão de Débito,Site,Campos,RJ,8040.08,804.008,7236.072
+501,2025-11-12,1511,Monitor,Eletrônicos,913.46,3,0.0,Pix,App,Santos,SP,2740.38,0.0,2740.38
+2673,2025-11-13,1076,Mesa,Casa,690.3,4,0.0,Cartão de Crédito,Marketplace,Itabira,MG,2761.2,0.0,2761.2
+14,2025-11-13,1001,Bicicleta,Esportes,1512.97,2,0.0,Boleto,App,Niterói,RJ,3025.94,0.0,3025.94
+5629,2025-11-14,2378,Notebook,Eletrônicos,3328.03,1,0.0,Cartão de Crédito,Site,Contagem,MG,3328.03,0.0,3328.03
+3924,2025-11-15,2475,Celular,Eletrônicos,1826.14,1,0.0,Cartão de Débito,Marketplace,Feira de Santana,BA,1826.14,0.0,1826.14
+5304,2025-11-15,2009,Notebook,Eletrônicos,3564.86,1,0.0,Boleto,Site,Itabira,MG,3564.86,0.0,3564.86
+2624,2025-11-15,1117,Bicicleta,Esportes,1570.91,1,0.0,Pix,App,Rio de Janeiro,RJ,1570.91,0.0,1570.91
+373,2025-11-15,2273,Notebook,Eletrônicos,3320.09,1,0.0,Boleto,Marketplace,Campinas,SP,3320.09,0.0,3320.09
+2930,2025-11-16,2259,Notebook,Eletrônicos,3209.57,1,10.0,Boleto,Marketplace,Contagem,MG,3209.57,320.95700000000005,2888.6130000000003
+189,2025-11-16,2027,Monitor,Eletrônicos,951.44,3,5.0,Cartão de Débito,Marketplace,Ribeirão Preto,SP,2854.32,142.716,2711.6040000000003
+5993,2025-11-16,1268,Monitor,Eletrônicos,914.11,4,0.0,Cartão de Crédito,Site,Itabira,MG,3656.44,0.0,3656.44
+2021,2025-11-16,2144,Bicicleta,Esportes,1574.37,1,5.0,Cartão de Débito,App,Ilhéus,BA,1574.37,78.7185,1495.6515
+1131,2025-11-17,1565,Celular,Eletrônicos,1614.63,2,15.0,Cartão de Débito,Marketplace,Contagem,MG,3229.26,484.389,2744.871
+2356,2025-11-17,1011,Mesa,Casa,644.2,3,0.0,Cartão de Crédito,Site,Santos,SP,1932.6000000000001,0.0,1932.6000000000001
+5302,2025-11-17,2378,Mesa,Casa,655.855,3,0.0,Boleto,App,Itabira,MG,1967.565,0.0,1967.565
+3767,2025-11-18,2046,Mesa,Casa,729.23,2,0.0,Pix,App,Santos,SP,1458.46,0.0,1458.46
+3618,2025-11-19,2001,Celular,Eletrônicos,2036.9,1,0.0,Cartão de Débito,Marketplace,Niterói,RJ,2036.9,0.0,2036.9
+1820,2025-11-20,1545,Bicicleta,Esportes,1599.45,1,5.0,Pix,Site,Contagem,MG,1599.45,79.97250000000001,1519.4775
+482,2025-11-20,2365,Celular,Eletrônicos,1637.31,1,0.0,Pix,Site,Ilhéus,BA,1637.31,0.0,1637.31
+1639,2025-11-21,1239,Celular,Eletrônicos,1563.81,4,10.0,Cartão de Débito,Marketplace,Vitória da Conquista,BA,6255.24,625.524,5629.715999999999
+5956,2025-11-22,1629,Bicicleta,Esportes,1684.28,1,5.0,Cartão de Débito,Site,Campinas,SP,1684.28,84.214,1600.066
+1536,2025-11-24,1851,Notebook,Eletrônicos,3665.33,1,15.0,Pix,App,Niterói,RJ,3665.33,549.7995,3115.5305
+2237,2025-11-24,1788,Notebook,Eletrônicos,3564.86,2,0.0,Cartão de Crédito,App,Betim,MG,7129.72,0.0,7129.72
+4215,2025-11-24,2262,Notebook,Eletrônicos,3564.86,2,10.0,Pix,Site,Ribeirão Preto,SP,7129.72,712.9720000000001,6416.7480000000005
+5874,2025-11-24,2405,Celular,Eletrônicos,1802.35,1,5.0,Cartão de Crédito,Marketplace,Salvador,BA,1802.35,90.1175,1712.2324999999998
+5698,2025-11-24,2027,Celular,Eletrônicos,1826.14,2,10.0,Cartão de Crédito,Site,Campos,RJ,3652.28,365.22800000000007,3287.052
+3026,2025-11-25,1947,Monitor,Eletrônicos,976.1,2,5.0,Boleto,App,Petrópolis,RJ,1952.2,97.61000000000001,1854.5900000000001
+1374,2025-11-25,1704,Bicicleta,Esportes,1512.97,1,5.0,Boleto,Site,Betim,MG,1512.97,75.6485,1437.3215
+3245,2025-11-28,1795,Bicicleta,Esportes,1389.7,3,5.0,Cartão de Débito,Site,Ribeirão Preto,SP,4169.1,208.45500000000004,3960.6450000000004
+425,2025-11-28,1997,Mesa,Casa,711.86,2,10.0,Cartão de Débito,Marketplace,Ilhéus,BA,1423.72,142.372,1281.348
+5328,2025-11-28,1848,Celular,Eletrônicos,1826.14,1,0.0,Cartão de Crédito,Marketplace,Itabira,MG,1826.14,0.0,1826.14
+1386,2025-11-29,2239,Monitor,Eletrônicos,985.74,3,15.0,Pix,App,Ribeirão Preto,SP,2957.2200000000003,443.583,2513.637
+5329,2025-11-29,2067,Bicicleta,Esportes,1548.56,3,10.0,Boleto,Site,Vitória da Conquista,BA,4645.68,464.56800000000004,4181.112
+1807,2025-11-29,1373,Notebook,Eletrônicos,3852.07,1,0.0,Cartão de Crédito,App,Betim,MG,3852.07,0.0,3852.07
+4151,2025-11-29,2059,Bicicleta,Esportes,1718.23,1,0.0,Pix,Site,Contagem,MG,1718.23,0.0,1718.23
+2351,2025-12-02,2177,Celular,Eletrônicos,1746.44,2,15.0,Boleto,App,Petrópolis,RJ,3492.88,523.932,2968.9480000000003
+1961,2025-12-02,1554,Bicicleta,Esportes,1380.74,2,0.0,Pix,Site,Feira de Santana,BA,2761.48,0.0,2761.48
+2186,2025-12-02,1340,Tênis,Roupas,329.17,4,5.0,Boleto,App,Ilhéus,BA,1316.68,65.834,1250.846
+4265,2025-12-02,1263,Bicicleta,Esportes,1714.08,1,5.0,Pix,Site,Campinas,SP,1714.08,85.70400000000001,1628.376
+1295,2025-12-02,1341,Bicicleta,Esportes,1512.97,1,0.0,Boleto,Site,Niterói,RJ,1512.97,0.0,1512.97
+1095,2025-12-02,1451,Celular,Eletrônicos,1797.26,1,0.0,Cartão de Débito,Marketplace,Niterói,RJ,1797.26,0.0,1797.26
+4534,2025-12-03,1434,Notebook,Eletrônicos,3688.63,1,15.0,Boleto,Marketplace,Contagem,MG,3688.63,553.2945,3135.3355
+837,2025-12-03,1091,Notebook,Eletrônicos,3564.86,3,5.0,Cartão de Débito,Site,Feira de Santana,BA,10694.58,534.729,10159.851
+185,2025-12-03,1612,Bicicleta,Esportes,1512.97,1,0.0,Boleto,Marketplace,Niterói,RJ,1512.97,0.0,1512.97
+677,2025-12-03,2209,Mesa,Casa,614.99,4,10.0,Cartão de Crédito,Site,Petrópolis,RJ,2459.96,245.996,2213.964
+2368,2025-12-06,1314,Bicicleta,Esportes,1485.89,1,0.0,Cartão de Crédito,Site,Rio de Janeiro,RJ,1485.89,0.0,1485.89
+4269,2025-12-06,1420,Mesa,Casa,650.68,4,5.0,Cartão de Débito,Site,Ribeirão Preto,SP,2602.72,130.136,2472.584
+684,2025-12-07,1973,Celular,Eletrônicos,1826.14,1,10.0,Cartão de Débito,Site,Petrópolis,RJ,1826.14,182.61400000000003,1643.526
+3193,2025-12-07,2020,Bicicleta,Esportes,1724.07,1,10.0,Cartão de Débito,Marketplace,Betim,MG,1724.07,172.407,1551.663
+1823,2025-12-08,1570,Mesa,Casa,593.7,2,0.0,Cartão de Débito,Site,Feira de Santana,BA,1187.4,0.0,1187.4
+2932,2025-12-09,2240,Mesa,Casa,655.855,4,0.0,Cartão de Débito,Site,Feira de Santana,BA,2623.42,0.0,2623.42
+3711,2025-12-10,1130,Monitor,Eletrônicos,928.93,4,0.0,Cartão de Débito,Marketplace,Ilhéus,BA,3715.72,0.0,3715.72
+3090,2025-12-10,1528,Bicicleta,Esportes,1512.97,1,5.0,Cartão de Débito,App,Petrópolis,RJ,1512.97,75.6485,1437.3215
+4014,2025-12-12,1828,Celular,Eletrônicos,1913.76,1,0.0,Boleto,Site,Feira de Santana,BA,1913.76,0.0,1913.76
+3033,2025-12-12,1658,Monitor,Eletrônicos,913.46,2,5.0,Boleto,Site,Campinas,SP,1826.92,91.346,1735.574
+2490,2025-12-12,2490,Celular,Eletrônicos,1537.98,2,0.0,Cartão de Crédito,App,Ribeirão Preto,SP,3075.96,0.0,3075.96
+73,2025-12-12,2352,Bicicleta,Esportes,1556.48,1,10.0,Cartão de Crédito,Site,Itabira,MG,1556.48,155.64800000000002,1400.8319999999999
+2107,2025-12-13,2054,Mesa,Casa,655.855,2,0.0,Boleto,Marketplace,Belo Horizonte,MG,1311.71,0.0,1311.71
+5842,2025-12-13,2416,Monitor,Eletrônicos,940.44,4,0.0,Pix,Marketplace,Salvador,BA,3761.76,0.0,3761.76
+1242,2025-12-16,1501,Bicicleta,Esportes,1530.02,1,0.0,Boleto,Marketplace,Betim,MG,1530.02,0.0,1530.02
+4455,2025-12-16,1522,Notebook,Eletrônicos,3001.43,2,5.0,Cartão de Débito,Marketplace,Feira de Santana,BA,6002.86,300.143,5702.717
+4280,2025-12-17,2021,Bicicleta,Esportes,1512.97,1,15.0,Cartão de Crédito,Marketplace,Niterói,RJ,1512.97,226.9455,1286.0245
+4706,2025-12-17,2311,Notebook,Eletrônicos,3564.86,1,0.0,Boleto,Site,Rio de Janeiro,RJ,3564.86,0.0,3564.86
+4541,2025-12-18,2120,Mesa,Casa,726.45,2,0.0,Cartão de Crédito,Marketplace,Petrópolis,RJ,1452.9,0.0,1452.9
+3977,2025-12-19,1615,Monitor,Eletrônicos,999.93,2,0.0,Cartão de Crédito,Site,Vitória da Conquista,BA,1999.86,0.0,1999.86
+1810,2025-12-19,1816,Celular,Eletrônicos,1822.49,2,0.0,Boleto,Marketplace,Betim,MG,3644.98,0.0,3644.98
+5540,2025-12-20,1548,Notebook,Eletrônicos,3463.01,1,10.0,Boleto,Marketplace,Salvador,BA,3463.01,346.30100000000004,3116.7090000000003
+5581,2025-12-20,1100,Notebook,Eletrônicos,3086.09,2,5.0,Cartão de Débito,Marketplace,Betim,MG,6172.18,308.60900000000004,5863.571
+1,2025-12-20,1178,Notebook,Eletrônicos,3564.86,2,0.0,Cartão de Débito,Site,Campinas,SP,7129.72,0.0,7129.72
+3024,2025-12-21,2259,Bicicleta,Esportes,1512.97,3,0.0,Cartão de Débito,Marketplace,Santos,SP,4538.91,0.0,4538.91
+1896,2025-12-21,1061,Monitor,Eletrônicos,793.15,4,0.0,Cartão de Crédito,App,Feira de Santana,BA,3172.6,0.0,3172.6
+4925,2025-12-22,1125,Bicicleta,Esportes,1538.39,1,10.0,Pix,Site,Vitória da Conquista,BA,1538.39,153.83900000000003,1384.5510000000002
+5326,2025-12-22,1945,Celular,Eletrônicos,1908.42,4,0.0,Pix,Marketplace,Contagem,MG,7633.68,0.0,7633.68
+4055,2025-12-22,1694,Notebook,Eletrônicos,3786.37,3,0.0,Cartão de Crédito,App,Santos,SP,11359.11,0.0,11359.11
+346,2025-12-22,1971,Celular,Eletrônicos,1850.78,1,0.0,Boleto,App,Campos,RJ,1850.78,0.0,1850.78
+284,2025-12-24,1490,Celular,Eletrônicos,1689.59,2,0.0,Cartão de Débito,App,Ribeirão Preto,SP,3379.18,0.0,3379.18
+4264,2025-12-24,2093,Bicicleta,Esportes,1590.56,3,0.0,Cartão de Débito,Marketplace,Campos,RJ,4771.68,0.0,4771.68
+4623,2025-12-25,1616,Bicicleta,Esportes,1512.97,1,5.0,Cartão de Débito,App,Santos,SP,1512.97,75.6485,1437.3215
+3671,2025-12-25,1959,Notebook,Eletrônicos,3093.59,1,5.0,Cartão de Débito,Marketplace,Salvador,BA,3093.59,154.67950000000002,2938.9105
+3237,2025-12-26,1023,Notebook,Eletrônicos,3564.86,1,10.0,Cartão de Crédito,Site,Campos,RJ,3564.86,356.48600000000005,3208.3740000000003
+2017,2025-12-26,1793,Bicicleta,Esportes,1685.02,3,15.0,Boleto,Site,São Paulo,SP,5055.0599999999995,758.2589999999999,4296.8009999999995
+335,2025-12-27,1433,Bicicleta,Esportes,1702.08,1,0.0,Pix,Site,Feira de Santana,BA,1702.08,0.0,1702.08
+1732,2025-12-28,1050,Mesa,Casa,574.77,2,0.0,Cartão de Crédito,Marketplace,Feira de Santana,BA,1149.54,0.0,1149.54
+1516,2025-12-28,1596,Celular,Eletrônicos,1625.89,1,0.0,Boleto,Marketplace,Betim,MG,1625.89,0.0,1625.89
+3709,2025-12-28,1421,Mesa,Casa,735.76,2,0.0,Cartão de Crédito,Marketplace,Vitória da Conquista,BA,1471.52,0.0,1471.52
+2486,2025-12-29,2145,Celular,Eletrônicos,1938.24,2,0.0,Cartão de Crédito,Marketplace,Feira de Santana,BA,3876.48,0.0,3876.48
+1551,2025-12-29,1638,Bicicleta,Esportes,1677.9,2,10.0,Cartão de Débito,Site,Rio de Janeiro,RJ,3355.8,335.58000000000004,3020.2200000000003
+5554,2025-12-30,1194,Celular,Eletrônicos,1826.14,1,10.0,Cartão de Débito,Site,São Paulo,SP,1826.14,182.61400000000003,1643.526
+316,2025-12-31,2110,Celular,Eletrônicos,1981.82,3,10.0,Boleto,Site,Campinas,SP,5945.46,594.546,5350.914
+3526,2025-12-31,2310,Notebook,Eletrônicos,3094.22,3,0.0,Pix,Site,Belo Horizonte,MG,9282.66,0.0,9282.66
+3499,2025-12-31,1683,Celular,Eletrônicos,1656.58,2,0.0,Cartão de Débito,Marketplace,São Paulo,SP,3313.16,0.0,3313.16
+3844,2026-01-01,1482,Notebook,Eletrônicos,3514.86,1,0.0,Pix,Marketplace,Feira de Santana,BA,3514.86,0.0,3514.86
+5126,2026-01-02,2222,Notebook,Eletrônicos,3456.73,2,0.0,Cartão de Débito,Site,Belo Horizonte,MG,6913.46,0.0,6913.46
+3753,2026-01-02,2389,Bicicleta,Esportes,1703.26,1,10.0,Boleto,Marketplace,Petrópolis,RJ,1703.26,170.32600000000002,1532.934
+3620,2026-01-02,1590,Mesa,Casa,661.2,2,0.0,Cartão de Débito,Site,Petrópolis,RJ,1322.4,0.0,1322.4
+5083,2026-01-02,2322,Notebook,Eletrônicos,3408.36,2,15.0,Pix,App,Santos,SP,6816.72,1022.508,5794.212
+2109,2026-01-03,1632,Celular,Eletrônicos,1826.14,3,15.0,Pix,Site,Petrópolis,RJ,5478.42,821.763,4656.657
+11,2026-01-03,1781,Notebook,Eletrônicos,3601.23,1,15.0,Cartão de Débito,Marketplace,Ribeirão Preto,SP,3601.23,540.1845,3061.0455
+4438,2026-01-03,2188,Celular,Eletrônicos,1826.14,1,15.0,Pix,App,Niterói,RJ,1826.14,273.921,1552.219
+939,2026-01-04,1593,Monitor,Eletrônicos,926.77,4,10.0,Cartão de Crédito,Marketplace,Itabira,MG,3707.08,370.708,3336.372
+1669,2026-01-04,1767,Notebook,Eletrônicos,3792.3,1,0.0,Boleto,App,Niterói,RJ,3792.3,0.0,3792.3
+736,2026-01-04,1995,Notebook,Eletrônicos,3013.87,4,5.0,Cartão de Débito,Site,Ilhéus,BA,12055.48,602.774,11452.706
+5884,2026-01-05,2101,Bicicleta,Esportes,1701.6,2,0.0,Cartão de Débito,App,Vitória da Conquista,BA,3403.2,0.0,3403.2
+590,2026-01-05,1603,Notebook,Eletrônicos,3705.44,1,5.0,Cartão de Débito,Marketplace,São Paulo,SP,3705.44,185.27200000000002,3520.168
+4299,2026-01-05,1323,Bicicleta,Esportes,1499.58,1,15.0,Cartão de Crédito,App,São Paulo,SP,1499.58,224.93699999999998,1274.643
+3391,2026-01-05,1766,Celular,Eletrônicos,1964.41,1,10.0,Cartão de Crédito,Site,Rio de Janeiro,RJ,1964.41,196.44100000000003,1767.969
+4766,2026-01-06,2040,Bicicleta,Esportes,1398.02,1,10.0,Pix,Site,Petrópolis,RJ,1398.02,139.802,1258.218
+1048,2026-01-06,1926,Bicicleta,Esportes,1320.0,1,0.0,Cartão de Débito,Marketplace,São Paulo,SP,1320.0,0.0,1320.0
+4385,2026-01-08,2208,Mesa,Casa,598.59,4,0.0,Cartão de Débito,Site,Salvador,BA,2394.36,0.0,2394.36
+278,2026-01-08,2392,Notebook,Eletrônicos,3564.86,2,5.0,Cartão de Débito,Site,Itabira,MG,7129.72,356.48600000000005,6773.234
+3324,2026-01-09,2293,Celular,Eletrônicos,1999.45,1,5.0,Cartão de Débito,Site,Niterói,RJ,1999.45,99.97250000000001,1899.4775
+3270,2026-01-09,1235,Bicicleta,Esportes,1615.35,1,15.0,Cartão de Débito,Marketplace,Rio de Janeiro,RJ,1615.35,242.30249999999998,1373.0475
+567,2026-01-09,1927,Notebook,Eletrônicos,3769.93,2,0.0,Boleto,App,São Paulo,SP,7539.86,0.0,7539.86
+1143,2026-01-09,1722,Bicicleta,Esportes,1315.61,1,15.0,Cartão de Crédito,Marketplace,Betim,MG,1315.61,197.34149999999997,1118.2685
+4311,2026-01-10,2256,Notebook,Eletrônicos,3281.15,1,10.0,Pix,Marketplace,Ilhéus,BA,3281.15,328.115,2953.035
+5911,2026-01-11,1994,Bicicleta,Esportes,1343.16,2,0.0,Boleto,Site,Petrópolis,RJ,2686.32,0.0,2686.32
+5684,2026-01-11,2400,Mesa,Casa,713.83,4,0.0,Cartão de Débito,Site,Ilhéus,BA,2855.32,0.0,2855.32
+5669,2026-01-14,1767,Notebook,Eletrônicos,3164.57,2,0.0,Boleto,Site,Campos,RJ,6329.14,0.0,6329.14
+5515,2026-01-14,1176,Monitor,Eletrônicos,869.25,2,0.0,Cartão de Débito,App,Belo Horizonte,MG,1738.5,0.0,1738.5
+3283,2026-01-15,1923,Celular,Eletrônicos,1826.14,3,0.0,Pix,Marketplace,Campinas,SP,5478.42,0.0,5478.42
+5545,2026-01-15,1396,Monitor,Eletrônicos,942.09,2,15.0,Cartão de Crédito,Marketplace,Contagem,MG,1884.18,282.627,1601.553
+4305,2026-01-16,1383,Bicicleta,Esportes,1512.97,1,0.0,Cartão de Crédito,App,Campos,RJ,1512.97,0.0,1512.97
+2239,2026-01-16,2363,Mesa,Casa,646.69,2,0.0,Pix,Site,Betim,MG,1293.38,0.0,1293.38
+4160,2026-01-17,2288,Notebook,Eletrônicos,3891.78,2,0.0,Cartão de Crédito,App,Contagem,MG,7783.56,0.0,7783.56
+2557,2026-01-17,2336,Notebook,Eletrônicos,3702.96,2,0.0,Cartão de Débito,Site,Niterói,RJ,7405.92,0.0,7405.92
+1986,2026-01-17,1087,Bicicleta,Esportes,1612.53,1,5.0,Cartão de Débito,Site,Petrópolis,RJ,1612.53,80.62650000000001,1531.9035
+4166,2026-01-17,1753,Monitor,Eletrônicos,915.36,3,0.0,Boleto,Marketplace,Rio de Janeiro,RJ,2746.08,0.0,2746.08
+280,2026-01-17,1783,Celular,Eletrônicos,2005.73,1,0.0,Pix,Marketplace,Petrópolis,RJ,2005.73,0.0,2005.73
+1035,2026-01-18,1788,Notebook,Eletrônicos,3679.02,1,0.0,Pix,App,São Paulo,SP,3679.02,0.0,3679.02
+5789,2026-01-18,1415,Notebook,Eletrônicos,3979.47,1,0.0,Cartão de Débito,App,Contagem,MG,3979.47,0.0,3979.47
+3476,2026-01-20,2137,Tênis,Roupas,317.94,4,0.0,Cartão de Crédito,Marketplace,Santos,SP,1271.76,0.0,1271.76
+3100,2026-01-21,1678,Monitor,Eletrônicos,913.46,4,0.0,Cartão de Débito,App,Petrópolis,RJ,3653.84,0.0,3653.84
+209,2026-01-21,1867,Monitor,Eletrônicos,921.14,2,0.0,Boleto,Marketplace,Itabira,MG,1842.28,0.0,1842.28
+1572,2026-01-21,1033,Mesa,Casa,655.855,2,10.0,Cartão de Crédito,Site,Campos,RJ,1311.71,131.17100000000002,1180.539
+4871,2026-01-21,1247,Celular,Eletrônicos,1706.63,1,0.0,Pix,App,Vitória da Conquista,BA,1706.63,0.0,1706.63
+4118,2026-01-22,2154,Celular,Eletrônicos,1667.22,1,0.0,Pix,App,Rio de Janeiro,RJ,1667.22,0.0,1667.22
+2777,2026-01-23,2178,Monitor,Eletrônicos,969.82,2,0.0,Cartão de Débito,Marketplace,Belo Horizonte,MG,1939.64,0.0,1939.64
+5190,2026-01-23,1421,Notebook,Eletrônicos,3031.42,2,0.0,Cartão de Débito,Marketplace,Ribeirão Preto,SP,6062.84,0.0,6062.84
+3281,2026-01-23,2223,Notebook,Eletrônicos,3564.86,4,0.0,Cartão de Débito,App,Petrópolis,RJ,14259.44,0.0,14259.44
+5688,2026-01-24,2170,Notebook,Eletrônicos,3703.31,1,0.0,Cartão de Crédito,App,Campinas,SP,3703.31,0.0,3703.31
+4844,2026-01-24,1103,Celular,Eletrônicos,2044.89,1,0.0,Boleto,Marketplace,Ilhéus,BA,2044.89,0.0,2044.89
+255,2026-01-25,1499,Celular,Eletrônicos,1895.66,1,0.0,Pix,Marketplace,Rio de Janeiro,RJ,1895.66,0.0,1895.66
+4734,2026-01-25,1852,Celular,Eletrônicos,1826.14,1,0.0,Pix,App,Belo Horizonte,MG,1826.14,0.0,1826.14
+3280,2026-01-26,1450,Monitor,Eletrônicos,978.4,2,15.0,Cartão de Crédito,Marketplace,Contagem,MG,1956.8,293.52,1663.28
+4278,2026-01-26,1792,Mesa,Casa,731.12,3,10.0,Cartão de Crédito,Site,Vitória da Conquista,BA,2193.36,219.336,1974.0240000000001
+1188,2026-01-27,1689,Celular,Eletrônicos,1757.56,3,0.0,Cartão de Crédito,Site,Itabira,MG,5272.68,0.0,5272.68
+2482,2026-01-27,2002,Bicicleta,Esportes,1405.17,1,0.0,Cartão de Crédito,Marketplace,Betim,MG,1405.17,0.0,1405.17
+3479,2026-01-27,2396,Bicicleta,Esportes,1644.28,3,10.0,Pix,Marketplace,São Paulo,SP,4932.84,493.28400000000005,4439.5560000000005
+4170,2026-01-28,1748,Monitor,Eletrônicos,925.3,2,0.0,Pix,App,Campos,RJ,1850.6,0.0,1850.6
+523,2026-01-29,1735,Bicicleta,Esportes,1378.91,2,10.0,Cartão de Crédito,Marketplace,Campinas,SP,2757.82,275.78200000000004,2482.038
+5895,2026-01-30,1080,Bicicleta,Esportes,1627.31,1,5.0,Boleto,App,Campos,RJ,1627.31,81.3655,1545.9445
+2141,2026-01-30,1201,Celular,Eletrônicos,1919.75,4,0.0,Boleto,Marketplace,Rio de Janeiro,RJ,7679.0,0.0,7679.0
+1954,2026-01-30,1076,Celular,Eletrônicos,1781.54,1,5.0,Boleto,Site,Rio de Janeiro,RJ,1781.54,89.077,1692.463
+4874,2026-01-31,1352,Notebook,Eletrônicos,3084.55,1,0.0,Boleto,Marketplace,Contagem,MG,3084.55,0.0,3084.55
+5214,2026-01-31,2386,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Débito,App,Petrópolis,RJ,3564.86,0.0,3564.86
+2209,2026-01-31,1276,Bicicleta,Esportes,1589.76,2,0.0,Cartão de Débito,Site,Santos,SP,3179.52,0.0,3179.52
+4720,2026-02-01,1201,Celular,Eletrônicos,1826.14,1,10.0,Boleto,Site,São Paulo,SP,1826.14,182.61400000000003,1643.526
+476,2026-02-01,1384,Celular,Eletrônicos,1908.26,1,10.0,Boleto,Site,Ilhéus,BA,1908.26,190.82600000000002,1717.434
+2072,2026-02-01,2335,Bicicleta,Esportes,1521.77,1,10.0,Boleto,Marketplace,Feira de Santana,BA,1521.77,152.177,1369.593
+976,2026-02-02,1632,Bicicleta,Esportes,1296.62,1,10.0,Cartão de Crédito,App,Salvador,BA,1296.62,129.662,1166.9579999999999
+4612,2026-02-03,1934,Bicicleta,Esportes,1275.21,1,0.0,Pix,Marketplace,São Paulo,SP,1275.21,0.0,1275.21
+839,2026-02-03,2123,Celular,Eletrônicos,1779.13,1,0.0,Pix,Marketplace,Vitória da Conquista,BA,1779.13,0.0,1779.13
+5801,2026-02-04,1009,Bicicleta,Esportes,1621.77,1,0.0,Pix,Site,Niterói,RJ,1621.77,0.0,1621.77
+5638,2026-02-04,1153,Celular,Eletrônicos,2026.89,1,15.0,Cartão de Crédito,Site,Betim,MG,2026.89,304.0335,1722.8565
+1193,2026-02-05,1352,Mesa,Casa,680.93,4,0.0,Boleto,App,Salvador,BA,2723.72,0.0,2723.72
+1616,2026-02-05,1977,Notebook,Eletrônicos,3564.86,2,0.0,Boleto,Site,Niterói,RJ,7129.72,0.0,7129.72
+3072,2026-02-05,1969,Notebook,Eletrônicos,3564.86,1,10.0,Boleto,Marketplace,Ilhéus,BA,3564.86,356.48600000000005,3208.3740000000003
+2097,2026-02-06,1048,Tênis,Roupas,283.08,4,0.0,Pix,App,Contagem,MG,1132.32,0.0,1132.32
+2848,2026-02-06,1215,Bicicleta,Esportes,1461.1,3,0.0,Cartão de Crédito,Site,Campos,RJ,4383.299999999999,0.0,4383.299999999999
+3651,2026-02-07,1518,Celular,Eletrônicos,1951.72,2,5.0,Boleto,App,Campinas,SP,3903.44,195.17200000000003,3708.268
+3712,2026-02-07,1896,Monitor,Eletrônicos,994.37,3,0.0,Cartão de Crédito,App,Salvador,BA,2983.11,0.0,2983.11
+4716,2026-02-08,1441,Celular,Eletrônicos,2041.41,2,15.0,Cartão de Crédito,Marketplace,Feira de Santana,BA,4082.82,612.423,3470.397
+3414,2026-02-08,1963,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Crédito,App,Campinas,SP,3564.86,0.0,3564.86
+2943,2026-02-08,1292,Bicicleta,Esportes,1512.97,1,15.0,Boleto,Marketplace,Campos,RJ,1512.97,226.9455,1286.0245
+903,2026-02-08,1274,Celular,Eletrônicos,1606.5,1,0.0,Pix,Marketplace,Itabira,MG,1606.5,0.0,1606.5
+552,2026-02-09,2057,Mesa,Casa,702.55,2,0.0,Pix,Site,Niterói,RJ,1405.1,0.0,1405.1
+2303,2026-02-10,1300,Notebook,Eletrônicos,3813.66,4,0.0,Cartão de Crédito,App,Campos,RJ,15254.64,0.0,15254.64
+4854,2026-02-10,2254,Celular,Eletrônicos,1866.39,2,10.0,Cartão de Débito,Marketplace,Vitória da Conquista,BA,3732.78,373.278,3359.5020000000004
+2870,2026-02-10,1200,Mesa,Casa,679.3,4,0.0,Boleto,Site,Ilhéus,BA,2717.2,0.0,2717.2
+1706,2026-02-12,2165,Notebook,Eletrônicos,3564.86,2,0.0,Cartão de Débito,App,Vitória da Conquista,BA,7129.72,0.0,7129.72
+5249,2026-02-12,1688,Celular,Eletrônicos,1815.92,3,0.0,Cartão de Débito,App,Ilhéus,BA,5447.76,0.0,5447.76
+2712,2026-02-12,2380,Bicicleta,Esportes,1322.23,4,15.0,Pix,Site,Campinas,SP,5288.92,793.338,4495.582
+5952,2026-02-13,1958,Celular,Eletrônicos,1826.14,2,0.0,Cartão de Débito,Site,Ilhéus,BA,3652.28,0.0,3652.28
+1580,2026-02-13,1325,Celular,Eletrônicos,1613.12,2,0.0,Cartão de Débito,App,Campos,RJ,3226.24,0.0,3226.24
+1969,2026-02-14,1212,Monitor,Eletrônicos,926.53,2,15.0,Boleto,Marketplace,Itabira,MG,1853.06,277.959,1575.1009999999999
+5039,2026-02-14,1666,Mesa,Casa,736.06,2,10.0,Cartão de Crédito,App,Rio de Janeiro,RJ,1472.12,147.212,1324.908
+401,2026-02-14,1678,Bicicleta,Esportes,1672.53,4,0.0,Boleto,App,Niterói,RJ,6690.12,0.0,6690.12
+400,2026-02-14,1139,Bicicleta,Esportes,1512.97,3,0.0,Pix,App,Niterói,RJ,4538.91,0.0,4538.91
+751,2026-02-15,1623,Celular,Eletrônicos,1826.14,1,10.0,Boleto,App,Contagem,MG,1826.14,182.61400000000003,1643.526
+3784,2026-02-15,2410,Celular,Eletrônicos,1598.12,2,0.0,Boleto,App,Petrópolis,RJ,3196.24,0.0,3196.24
+4116,2026-02-16,1760,Mesa,Casa,598.93,2,0.0,Cartão de Débito,Site,Feira de Santana,BA,1197.86,0.0,1197.86
+5944,2026-02-17,1709,Bicicleta,Esportes,1666.39,1,0.0,Cartão de Crédito,Marketplace,Ilhéus,BA,1666.39,0.0,1666.39
+1332,2026-02-17,1025,Celular,Eletrônicos,1826.14,3,0.0,Cartão de Crédito,App,São Paulo,SP,5478.42,0.0,5478.42
+5445,2026-02-17,2405,Bicicleta,Esportes,1703.24,4,5.0,Cartão de Crédito,Marketplace,Niterói,RJ,6812.96,340.648,6472.312
+5310,2026-02-18,2465,Notebook,Eletrônicos,3163.49,2,0.0,Pix,Site,Itabira,MG,6326.98,0.0,6326.98
+4316,2026-02-18,1488,Monitor,Eletrônicos,929.79,2,0.0,Boleto,App,Santos,SP,1859.58,0.0,1859.58
+940,2026-02-19,1153,Celular,Eletrônicos,1826.14,2,15.0,Pix,App,Vitória da Conquista,BA,3652.28,547.842,3104.438
+3227,2026-02-19,1088,Bicicleta,Esportes,1641.88,2,5.0,Cartão de Débito,Marketplace,Niterói,RJ,3283.76,164.18800000000002,3119.572
+1721,2026-02-21,1153,Mesa,Casa,717.54,2,0.0,Pix,Site,Campinas,SP,1435.08,0.0,1435.08
+2544,2026-02-21,2124,Mesa,Casa,716.46,2,5.0,Boleto,Site,Betim,MG,1432.92,71.646,1361.2740000000001
+5507,2026-02-21,1641,Celular,Eletrônicos,1911.32,1,10.0,Cartão de Débito,App,São Paulo,SP,1911.32,191.132,1720.1879999999999
+3307,2026-02-22,1781,Bicicleta,Esportes,1513.64,1,0.0,Cartão de Débito,Marketplace,Feira de Santana,BA,1513.64,0.0,1513.64
+3188,2026-02-22,1043,Notebook,Eletrônicos,3564.86,2,15.0,Cartão de Débito,Site,Salvador,BA,7129.72,1069.458,6060.262000000001
+4255,2026-02-22,1426,Bicicleta,Esportes,1598.8,1,15.0,Cartão de Crédito,Marketplace,Rio de Janeiro,RJ,1598.8,239.82,1358.98
+41,2026-02-22,2135,Celular,Eletrônicos,1706.14,2,10.0,Pix,Site,Campos,RJ,3412.28,341.22800000000007,3071.052
+820,2026-02-22,1737,Bicicleta,Esportes,1319.28,1,0.0,Cartão de Crédito,Marketplace,Niterói,RJ,1319.28,0.0,1319.28
+1791,2026-02-22,1522,Celular,Eletrônicos,2049.65,1,0.0,Boleto,Marketplace,Betim,MG,2049.65,0.0,2049.65
+3621,2026-02-23,2188,Tênis,Roupas,335.22,4,5.0,Pix,Marketplace,Contagem,MG,1340.88,67.04400000000001,1273.836
+5057,2026-02-23,2165,Mesa,Casa,581.07,4,10.0,Pix,App,Belo Horizonte,MG,2324.28,232.42800000000003,2091.8520000000003
+4478,2026-02-24,1051,Monitor,Eletrônicos,888.98,2,0.0,Cartão de Débito,Site,Ribeirão Preto,SP,1777.96,0.0,1777.96
+625,2026-02-24,2443,Monitor,Eletrônicos,913.46,3,5.0,Cartão de Crédito,Marketplace,Contagem,MG,2740.38,137.019,2603.361
+2738,2026-02-26,1671,Bicicleta,Esportes,1512.97,3,15.0,Boleto,Marketplace,São Paulo,SP,4538.91,680.8365,3858.0735
+4565,2026-02-26,1952,Celular,Eletrônicos,1944.39,1,5.0,Cartão de Débito,Marketplace,Contagem,MG,1944.39,97.21950000000001,1847.1705000000002
+3745,2026-02-26,1420,Notebook,Eletrônicos,3577.91,1,0.0,Pix,Site,Feira de Santana,BA,3577.91,0.0,3577.91
+257,2026-02-26,1421,Celular,Eletrônicos,1532.4,2,5.0,Boleto,Marketplace,Vitória da Conquista,BA,3064.8,153.24,2911.5600000000004
+4633,2026-02-27,1629,Celular,Eletrônicos,1674.2,1,0.0,Cartão de Crédito,Marketplace,Feira de Santana,BA,1674.2,0.0,1674.2
+5444,2026-02-27,1856,Notebook,Eletrônicos,3564.86,2,0.0,Cartão de Crédito,App,Feira de Santana,BA,7129.72,0.0,7129.72
+1508,2026-02-28,2065,Bicicleta,Esportes,1512.97,3,15.0,Boleto,Marketplace,Niterói,RJ,4538.91,680.8365,3858.0735
+4094,2026-02-28,1343,Monitor,Eletrônicos,913.46,4,0.0,Pix,App,Salvador,BA,3653.84,0.0,3653.84
+1553,2026-02-28,1507,Monitor,Eletrônicos,913.46,3,5.0,Cartão de Crédito,App,Contagem,MG,2740.38,137.019,2603.361
+5933,2026-03-01,1401,Bicicleta,Esportes,1623.13,2,10.0,Pix,Site,Contagem,MG,3246.26,324.62600000000003,2921.634
+5815,2026-03-01,1088,Celular,Eletrônicos,1647.62,1,0.0,Cartão de Crédito,Marketplace,Niterói,RJ,1647.62,0.0,1647.62
+5320,2026-03-01,1025,Celular,Eletrônicos,1853.84,2,0.0,Cartão de Débito,Marketplace,Salvador,BA,3707.68,0.0,3707.68
+4608,2026-03-01,2239,Bicicleta,Esportes,1392.64,1,0.0,Cartão de Débito,App,Betim,MG,1392.64,0.0,1392.64
+5709,2026-03-01,1403,Bicicleta,Esportes,1619.74,1,0.0,Pix,Site,Belo Horizonte,MG,1619.74,0.0,1619.74
+3161,2026-03-02,1776,Bicicleta,Esportes,1428.76,1,5.0,Boleto,App,Contagem,MG,1428.76,71.438,1357.322
+3566,2026-03-02,1692,Monitor,Eletrônicos,913.46,4,5.0,Cartão de Crédito,Marketplace,Campos,RJ,3653.84,182.692,3471.148
+1093,2026-03-02,1116,Bicicleta,Esportes,1640.68,1,0.0,Pix,App,Itabira,MG,1640.68,0.0,1640.68
+1771,2026-03-02,1204,Bicicleta,Esportes,1386.85,4,0.0,Boleto,App,Ilhéus,BA,5547.4,0.0,5547.4
+3019,2026-03-02,1223,Notebook,Eletrônicos,3932.14,4,0.0,Boleto,Marketplace,Campos,RJ,15728.56,0.0,15728.56
+4697,2026-03-03,2338,Notebook,Eletrônicos,3750.81,1,0.0,Boleto,Site,Petrópolis,RJ,3750.81,0.0,3750.81
+3493,2026-03-03,1609,Notebook,Eletrônicos,3230.63,2,0.0,Boleto,Marketplace,Belo Horizonte,MG,6461.26,0.0,6461.26
+547,2026-03-04,1686,Celular,Eletrônicos,1826.14,1,5.0,Cartão de Débito,App,Ribeirão Preto,SP,1826.14,91.30700000000002,1734.833
+5315,2026-03-04,1611,Celular,Eletrônicos,1826.14,3,0.0,Pix,Site,Itabira,MG,5478.42,0.0,5478.42
+745,2026-03-05,1420,Bicicleta,Esportes,1350.17,1,0.0,Boleto,Site,Belo Horizonte,MG,1350.17,0.0,1350.17
+977,2026-03-05,1678,Mesa,Casa,742.4,2,0.0,Cartão de Débito,Marketplace,Ilhéus,BA,1484.8,0.0,1484.8
+5282,2026-03-06,1777,Notebook,Eletrônicos,3432.15,3,5.0,Boleto,Site,Contagem,MG,10296.45,514.8225000000001,9781.6275
+2645,2026-03-06,2148,Notebook,Eletrônicos,3430.39,1,0.0,Boleto,Site,Salvador,BA,3430.39,0.0,3430.39
+944,2026-03-08,2295,Celular,Eletrônicos,1530.76,2,0.0,Boleto,App,São Paulo,SP,3061.52,0.0,3061.52
+861,2026-03-08,1316,Bicicleta,Esportes,1596.69,1,0.0,Pix,Site,Niterói,RJ,1596.69,0.0,1596.69
+3893,2026-03-08,1547,Bicicleta,Esportes,1479.05,3,15.0,Boleto,Marketplace,Niterói,RJ,4437.15,665.5724999999999,3771.5775
+2475,2026-03-09,1774,Notebook,Eletrônicos,3855.77,2,0.0,Cartão de Débito,Site,Rio de Janeiro,RJ,7711.54,0.0,7711.54
+5645,2026-03-10,2142,Notebook,Eletrônicos,3546.34,4,0.0,Pix,Site,Campos,RJ,14185.36,0.0,14185.36
+2103,2026-03-10,1928,Notebook,Eletrônicos,3807.94,1,0.0,Pix,Marketplace,Feira de Santana,BA,3807.94,0.0,3807.94
+56,2026-03-11,1063,Celular,Eletrônicos,1951.87,1,0.0,Pix,Site,São Paulo,SP,1951.87,0.0,1951.87
+5953,2026-03-12,1683,Monitor,Eletrônicos,828.25,2,0.0,Pix,App,Petrópolis,RJ,1656.5,0.0,1656.5
+435,2026-03-12,1836,Mesa,Casa,655.855,2,0.0,Boleto,Site,Contagem,MG,1311.71,0.0,1311.71
+3422,2026-03-12,1451,Notebook,Eletrônicos,3564.86,4,10.0,Cartão de Débito,Site,Belo Horizonte,MG,14259.44,1425.9440000000002,12833.496000000001
+5300,2026-03-13,2157,Bicicleta,Esportes,1512.97,2,10.0,Pix,Site,Petrópolis,RJ,3025.94,302.594,2723.346
+1590,2026-03-13,1166,Celular,Eletrônicos,1826.14,1,0.0,Cartão de Crédito,Marketplace,Belo Horizonte,MG,1826.14,0.0,1826.14
+1539,2026-03-14,1170,Bicicleta,Esportes,1575.6,1,10.0,Boleto,Site,Betim,MG,1575.6,157.56,1418.04
+5283,2026-03-14,1553,Mesa,Casa,655.855,2,0.0,Cartão de Crédito,Marketplace,Vitória da Conquista,BA,1311.71,0.0,1311.71
+1926,2026-03-15,1873,Bicicleta,Esportes,1372.03,1,5.0,Cartão de Débito,App,Betim,MG,1372.03,68.6015,1303.4285
+5522,2026-03-16,2271,Bicicleta,Esportes,1685.45,1,0.0,Cartão de Débito,App,Campinas,SP,1685.45,0.0,1685.45
+190,2026-03-16,2076,Celular,Eletrônicos,2068.99,1,10.0,Cartão de Débito,App,Santos,SP,2068.99,206.899,1862.091
+4632,2026-03-16,2370,Mesa,Casa,617.49,4,0.0,Cartão de Crédito,Marketplace,Itabira,MG,2469.96,0.0,2469.96
+5092,2026-03-17,1003,Notebook,Eletrônicos,3469.18,1,0.0,Cartão de Débito,Site,Vitória da Conquista,BA,3469.18,0.0,3469.18
+5777,2026-03-18,2306,Mesa,Casa,655.855,2,5.0,Boleto,Marketplace,Salvador,BA,1311.71,65.58550000000001,1246.1245000000001
+3303,2026-03-18,1067,Bicicleta,Esportes,1326.74,1,15.0,Cartão de Crédito,Site,Vitória da Conquista,BA,1326.74,199.011,1127.729
+5939,2026-03-18,1494,Notebook,Eletrônicos,3872.17,1,10.0,Boleto,Marketplace,São Paulo,SP,3872.17,387.21700000000004,3484.953
+4341,2026-03-19,1019,Mesa,Casa,694.5,4,0.0,Cartão de Crédito,Marketplace,Vitória da Conquista,BA,2778.0,0.0,2778.0
+4731,2026-03-19,2348,Notebook,Eletrônicos,3754.4,2,0.0,Cartão de Débito,App,São Paulo,SP,7508.8,0.0,7508.8
+1532,2026-03-19,1469,Bicicleta,Esportes,1394.12,2,0.0,Boleto,App,Ribeirão Preto,SP,2788.24,0.0,2788.24
+1619,2026-03-20,1486,Bicicleta,Esportes,1558.72,4,15.0,Cartão de Débito,App,Contagem,MG,6234.88,935.232,5299.648
+3703,2026-03-21,1751,Celular,Eletrônicos,1658.32,2,0.0,Cartão de Crédito,Site,Campos,RJ,3316.64,0.0,3316.64
+4857,2026-03-21,2347,Notebook,Eletrônicos,3499.06,1,0.0,Boleto,Marketplace,Contagem,MG,3499.06,0.0,3499.06
+3668,2026-03-21,2118,Notebook,Eletrônicos,3253.56,3,0.0,Pix,Site,Campinas,SP,9760.68,0.0,9760.68
+5838,2026-03-21,1145,Celular,Eletrônicos,1643.15,1,15.0,Cartão de Débito,Marketplace,Campos,RJ,1643.15,246.4725,1396.6775
+2547,2026-03-21,1413,Bicicleta,Esportes,1512.97,1,0.0,Pix,Site,Vitória da Conquista,BA,1512.97,0.0,1512.97
+2019,2026-03-22,1063,Celular,Eletrônicos,1753.8,1,10.0,Cartão de Crédito,Marketplace,Feira de Santana,BA,1753.8,175.38,1578.42
+5955,2026-03-23,2190,Bicicleta,Esportes,1701.39,1,5.0,Boleto,Marketplace,Itabira,MG,1701.39,85.0695,1616.3205
+1126,2026-03-23,1339,Celular,Eletrônicos,1583.71,2,5.0,Cartão de Crédito,App,Petrópolis,RJ,3167.42,158.371,3009.049
+492,2026-03-24,2240,Notebook,Eletrônicos,3026.54,4,15.0,Cartão de Crédito,Site,Ilhéus,BA,12106.16,1815.924,10290.236
+611,2026-03-24,1928,Notebook,Eletrônicos,3564.86,3,0.0,Cartão de Crédito,Site,Ribeirão Preto,SP,10694.58,0.0,10694.58
+196,2026-03-25,1010,Monitor,Eletrônicos,948.92,3,15.0,Pix,App,Salvador,BA,2846.7599999999998,427.01399999999995,2419.7459999999996
+5739,2026-03-25,1324,Bicicleta,Esportes,1615.49,1,0.0,Pix,Marketplace,Ilhéus,BA,1615.49,0.0,1615.49
+3948,2026-03-27,2076,Mesa,Casa,655.855,3,0.0,Boleto,Site,São Paulo,SP,1967.565,0.0,1967.565
+446,2026-03-27,1931,Bicicleta,Esportes,1547.86,3,0.0,Cartão de Débito,Marketplace,Niterói,RJ,4643.58,0.0,4643.58
+2902,2026-03-28,1710,Bicicleta,Esportes,1299.73,3,0.0,Cartão de Crédito,App,Feira de Santana,BA,3899.19,0.0,3899.19
+845,2026-03-28,1669,Celular,Eletrônicos,1754.47,1,15.0,Boleto,Marketplace,São Paulo,SP,1754.47,263.1705,1491.2995
+4061,2026-03-29,2304,Bicicleta,Esportes,1462.69,2,0.0,Cartão de Débito,Site,Itabira,MG,2925.38,0.0,2925.38
+2359,2026-03-29,1412,Bicicleta,Esportes,1635.75,1,0.0,Cartão de Débito,Marketplace,Itabira,MG,1635.75,0.0,1635.75
+5899,2026-03-30,1445,Notebook,Eletrônicos,3564.86,1,0.0,Cartão de Débito,Marketplace,Santos,SP,3564.86,0.0,3564.86
+5206,2026-03-30,1849,Mesa,Casa,655.855,3,0.0,Boleto,Marketplace,Rio de Janeiro,RJ,1967.565,0.0,1967.565
+5662,2026-03-30,1337,Bicicleta,Esportes,1343.19,2,0.0,Boleto,Site,Campinas,SP,2686.38,0.0,2686.38
+162,2026-03-30,2388,Notebook,Eletrônicos,3564.86,4,0.0,Cartão de Débito,Site,São Paulo,SP,14259.44,0.0,14259.44
+4884,2026-03-30,1768,Celular,Eletrônicos,1826.14,1,0.0,Cartão de Débito,App,Itabira,MG,1826.14,0.0,1826.14
+1667,2026-03-31,1755,Celular,Eletrônicos,1877.52,3,15.0,Cartão de Crédito,Marketplace,Betim,MG,5632.5599999999995,844.8839999999999,4787.6759999999995
+1990,2026-03-31,1576,Notebook,Eletrônicos,3810.63,2,0.0,Cartão de Débito,Marketplace,Niterói,RJ,7621.26,0.0,7621.26
+287,2026-03-31,1168,Notebook,Eletrônicos,3419.75,4,10.0,Pix,App,Campos,RJ,13679.0,1367.9,12311.1
+4080,2026-03-31,1637,Mesa,Casa,651.14,3,0.0,Boleto,Marketplace,São Paulo,SP,1953.42,0.0,1953.42
+688,2026-03-31,1587,Mesa,Casa,717.46,4,0.0,Pix,App,Itabira,MG,2869.84,0.0,2869.84
+308,2026-04-02,1250,Notebook,Eletrônicos,3071.58,2,15.0,Cartão de Crédito,App,Feira de Santana,BA,6143.16,921.4739999999999,5221.686
+568,2026-04-02,1890,Bicicleta,Esportes,1409.88,1,0.0,Boleto,Site,Santos,SP,1409.88,0.0,1409.88
+2646,2026-04-02,1760,Bicicleta,Esportes,1512.97,3,0.0,Cartão de Crédito,Site,Campinas,SP,4538.91,0.0,4538.91
+849,2026-04-03,2388,Bicicleta,Esportes,1716.64,1,0.0,Pix,App,Contagem,MG,1716.64,0.0,1716.64
+1031,2026-04-03,1153,Celular,Eletrônicos,1555.92,1,0.0,Boleto,App,Belo Horizonte,MG,1555.92,0.0,1555.92
+1987,2026-04-04,1670,Bicicleta,Esportes,1512.97,1,5.0,Cartão de Débito,Marketplace,Feira de Santana,BA,1512.97,75.6485,1437.3215
+2574,2026-04-04,1781,Celular,Eletrônicos,1986.31,2,0.0,Pix,Site,Campos,RJ,3972.62,0.0,3972.62
+2969,2026-04-04,2213,Monitor,Eletrônicos,846.61,2,0.0,Cartão de Débito,Site,Campos,RJ,1693.22,0.0,1693.22
+5468,2026-04-05,2089,Mesa,Casa,643.7,2,0.0,Boleto,App,Ribeirão Preto,SP,1287.4,0.0,1287.4
+2805,2026-04-05,1072,Monitor,Eletrônicos,969.65,3,10.0,Cartão de Débito,App,Belo Horizonte,MG,2908.95,290.895,2618.055
+1547,2026-04-05,1574,Notebook,Eletrônicos,3831.48,2,15.0,Boleto,App,Santos,SP,7662.96,1149.444,6513.516
+1653,2026-04-05,2098,Notebook,Eletrônicos,3564.86,1,15.0,Pix,Site,Betim,MG,3564.86,534.729,3030.1310000000003
+3746,2026-04-06,1421,Bicicleta,Esportes,1568.76,1,0.0,Boleto,Marketplace,Campinas,SP,1568.76,0.0,1568.76
+5824,2026-04-06,1409,Monitor,Eletrônicos,823.88,3,15.0,Boleto,App,Niterói,RJ,2471.64,370.746,2100.894
+235,2026-04-07,1032,Celular,Eletrônicos,2031.53,2,10.0,Pix,Marketplace,Itabira,MG,4063.06,406.30600000000004,3656.754
+5446,2026-04-07,1428,Mesa,Casa,712.97,2,5.0,Boleto,App,Campinas,SP,1425.94,71.29700000000001,1354.643
+5516,2026-04-07,1448,Notebook,Eletrônicos,3158.23,1,0.0,Cartão de Débito,Site,Rio de Janeiro,RJ,3158.23,0.0,3158.23
+5837,2026-04-07,1167,Bicicleta,Esportes,1704.82,1,0.0,Cartão de Débito,Site,Ilhéus,BA,1704.82,0.0,1704.82
+2231,2026-04-08,1357,Notebook,Eletrônicos,3480.79,3,0.0,Cartão de Crédito,App,Petrópolis,RJ,10442.369999999999,0.0,10442.369999999999
+5204,2026-04-08,1626,Notebook,Eletrônicos,3788.61,1,0.0,Boleto,Site,Vitória da Conquista,BA,3788.61,0.0,3788.61
+1609,2026-04-08,2114,Notebook,Eletrônicos,3732.31,1,15.0,Cartão de Crédito,Marketplace,Vitória da Conquista,BA,3732.31,559.8465,3172.4635
+1087,2026-04-08,1675,Mesa,Casa,655.855,2,0.0,Cartão de Crédito,Site,Rio de Janeiro,RJ,1311.71,0.0,1311.71
+2253,2026-04-08,2321,Monitor,Eletrônicos,948.01,4,15.0,Cartão de Crédito,Site,Niterói,RJ,3792.04,568.8059999999999,3223.234
+3355,2026-04-09,1833,Celular,Eletrônicos,1883.38,3,15.0,Boleto,Site,Itabira,MG,5650.14,847.5210000000001,4802.619000000001
+5015,2026-04-10,1205,Celular,Eletrônicos,1590.88,4,0.0,Pix,Marketplace,Ilhéus,BA,6363.52,0.0,6363.52
+242,2026-04-11,1597,Notebook,Eletrônicos,3881.9,3,10.0,Cartão de Débito,App,Contagem,MG,11645.7,1164.5700000000002,10481.130000000001
+490,2026-04-13,1839,Celular,Eletrônicos,1861.04,4,0.0,Boleto,Site,Feira de Santana,BA,7444.16,0.0,7444.16
+3643,2026-04-13,1637,Bicicleta,Esportes,1437.77,1,0.0,Pix,Marketplace,Itabira,MG,1437.77,0.0,1437.77
+1530,2026-04-13,2120,Bicicleta,Esportes,1512.97,2,5.0,Boleto,Marketplace,Betim,MG,3025.94,151.297,2874.643
+3505,2026-04-14,2404,Celular,Eletrônicos,1826.14,1,0.0,Cartão de Crédito,App,Santos,SP,1826.14,0.0,1826.14
+5855,2026-04-15,1272,Notebook,Eletrônicos,3669.82,2,0.0,Cartão de Crédito,Site,Campinas,SP,7339.64,0.0,7339.64
+667,2026-04-15,1244,Celular,Eletrônicos,1766.55,1,15.0,Pix,App,Betim,MG,1766.55,264.98249999999996,1501.5675
+3702,2026-04-15,1979,Monitor,Eletrônicos,1032.74,3,0.0,Boleto,Site,Petrópolis,RJ,3098.2200000000003,0.0,3098.2200000000003
+1232,2026-04-16,1988,Celular,Eletrônicos,1606.65,1,0.0,Pix,App,Ilhéus,BA,1606.65,0.0,1606.65
+4909,2026-04-16,2261,Notebook,Eletrônicos,4023.71,1,0.0,Pix,Marketplace,Ribeirão Preto,SP,4023.71,0.0,4023.71
+4146,2026-04-16,1913,Mesa,Casa,594.69,2,0.0,Cartão de Crédito,App,Niterói,RJ,1189.38,0.0,1189.38
+2154,2026-04-16,1468,Notebook,Eletrônicos,3829.75,2,0.0,Cartão de Crédito,Site,Salvador,BA,7659.5,0.0,7659.5
+3318,2026-04-16,1347,Celular,Eletrônicos,1660.32,1,0.0,Cartão de Crédito,Marketplace,Contagem,MG,1660.32,0.0,1660.32

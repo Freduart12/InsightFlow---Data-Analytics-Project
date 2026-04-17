@@ -1,0 +1,26 @@
+RESUMO EXECUTIVO - INSIGHTFLOW
+
+1. O dataset foi gerado com mais de 5.000 registros e passou por um processo completo de ETL,
+incluindo tratamento de valores nulos, remoção de duplicatas e padronização de formatos.
+
+2. O faturamento total observado foi de R$ 4,164,432.86, com ticket médio de
+R$ 694.07 e base de 1484 clientes únicos.
+
+3. A categoria com maior faturamento foi "Eletrônicos", enquanto o produto com maior volume
+de itens vendidos foi "Hidratante".
+
+4. A análise de outliers identificou 806 transações fora do padrão esperado,
+o que pode indicar compras atípicas, promoções agressivas ou possíveis inconsistências operacionais.
+
+5. A segmentação RFM permitiu identificar perfis distintos de clientes com base em recência,
+frequência e valor monetário, apoiando futuras estratégias de retenção e relacionamento.
+
+6. O modelo preditivo por regressão linear foi utilizado para estimar o comportamento das vendas
+nos próximos 30 dias. A média prevista de faturamento diário para esse período foi de
+R$ 10,368.16.
+
+7. Como próxims passos, recomenda-se:
+   - investir nas categorias mais rentáveis;
+   - criar ações para retenção de clientes de maior valor;
+   - monitorar transações outliers;
+   - usar a previsão de vendas para planejamento de estoque e campanhas.

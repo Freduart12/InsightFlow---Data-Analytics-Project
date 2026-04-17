@@ -1,0 +1,7 @@
+KPIs PRINCIPAIS
+====================
+faturamento_total: 4164432.86
+ticket_medio: 694.07
+total_pedidos: 6000
+clientes_unicos: 1484
+quantidade_itens_vendidos: 11280
