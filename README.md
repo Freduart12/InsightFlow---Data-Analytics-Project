@@ -216,39 +216,39 @@ No terminal:
 python src/insightflow_pipeline.py
 O que esse comando faz
 
-Ao rodar o pipeline, o projeto executa as 4 sprints automaticamente:
+### Ao rodar o pipeline, o projeto executa as 4 sprints automaticamente:
 
-gera o dataset com mais de 5.000 linhas
-trata valores nulos, duplicatas e inconsistências
-salva o CSV final
-carrega os dados em SQLite
-calcula KPIs
-executa análises e consultas SQL
-detecta outliers
-faz segmentação RFM
-gera gráficos
-cria previsão para os próximos 30 dias
-exporta arquivos finais em outputs/
+* gera o dataset com mais de 5.000 linhas
+* trata valores nulos, duplicatas e inconsistências
+* salva o CSV final
+* carrega os dados em SQLite
+* calcula KPIs
+* executa análises e consultas SQL
+* detecta outliers
+* faz segmentação RFM
+* gera gráficos
+* cria previsão para os próximos 30 dias
+* exporta arquivos finais em outputs/
 
 ## Verificar os arquivos gerados
 
 Depois de rodar o pipeline, você deverá ter:
 
-Na pasta data/
-ecom_data.csv
-ecommerce.db
-Na pasta outputs/
-kpis.txt
-previsao_proximo_mes.csv
-grafico_vendas_tempo.png
-grafico_categoria.png
-grafico_top_clientes.png
-boxplot_outliers.png
-dashboard_resumo.png
-grafico_previsao_vendas.png
-segmentacao_rfm.csv
-outliers_detectados.csv
-storytelling.txt
+* Na pasta data/
+* ecom_data.csv
+* ecommerce.db
+* Na pasta outputs/
+* kpis.txt
+* previsao_proximo_mes.csv
+* grafico_vendas_tempo.png
+* grafico_categoria.png
+* grafico_top_clientes.png
+* boxplot_outliers.png
+* dashboard_resumo.png
+* grafico_previsao_vendas.png
+* segmentacao_rfm.csv
+* outliers_detectados.csv
+* storytelling.txt
 
 ## Abrir o dashboard interativo
 
@@ -264,30 +264,30 @@ http://localhost:8501
 
 O dashboard interativo contém:
 
-Filtros
-categoria
-estado
-canal de venda
-método de pagamento
-período
-KPIs
-faturamento total
-ticket médio
-total de pedidos
-clientes únicos
-itens vendidos
-Abas
-Visão Geral
-Clientes e RFM
-Previsão
-Dados
-Gráficos
-vendas ao longo do tempo
-faturamento por categoria
-top clientes
-top produtos
-boxplot de outliers
-gráfico de previsão
+* Filtros
+* categoria
+* estado
+* canal de venda
+* método de pagamento
+* período
+* KPIs
+* faturamento total
+* ticket médio
+* total de pedidos
+* clientes únicos
+* itens vendidos
+* Abas
+* Visão Geral
+* Clientes e RFM
+* Previsão
+* Dados
+* Gráficos
+* vendas ao longo do tempo
+* faturamento por categoria
+* top clientes
+* top produtos
+* boxplot de outliers
+* gráfico de previsão
 
 # Dashboard Interativo
 
